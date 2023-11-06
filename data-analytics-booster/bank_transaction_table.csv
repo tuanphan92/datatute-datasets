@@ -1,1001 +1,1001 @@
 trans_id,cust_id,trans_date,trans_time,trans_amt,trans_final_status
-1,1,2023-10-11,3:40,Yen,success
-2,2,2022-12-16,15:55,Peso,success
-3,3,2023-06-23,4:13,Yuan Renminbi,failed
-4,4,2023-09-22,8:30,Yuan Renminbi,failed
-5,5,2023-06-25,5:38,Won,success
-6,6,2022-12-17,5:24,Ruble,success
-7,7,2023-01-04,23:21,Krona,failed
-8,8,2023-04-20,1:02,Baht,failed
-9,9,2023-03-13,12:02,Gourde,success
-10,10,2023-09-18,4:18,Dollar,success
-11,11,2023-08-21,14:34,Yuan Renminbi,success
-12,12,2022-11-23,6:59,Rupiah,success
-13,13,2023-03-25,13:57,Peso,success
-14,14,2023-10-17,6:00,Yuan Renminbi,success
-15,15,2023-02-24,5:27,Krone,failed
-16,16,2023-09-19,19:32,Shekel,success
-17,17,2023-06-09,11:17,Yuan Renminbi,success
-18,18,2023-01-07,11:59,Euro,success
-19,19,2023-04-29,11:54,Hryvnia,success
-20,20,2023-05-11,8:45,Euro,success
-21,21,2022-12-02,2:04,Franc,failed
-22,22,2023-10-09,18:38,Rupiah,success
-23,23,2023-02-14,19:49,Ruble,success
-24,24,2022-12-26,12:00,Dinar,failed
-25,25,2022-12-30,21:07,Naira,failed
-26,26,2023-03-24,17:12,Rupee,success
-27,27,2022-12-24,14:38,Yuan Renminbi,failed
-28,28,2023-06-09,23:27,Rand,failed
-29,29,2023-09-05,1:21,Yuan Renminbi,failed
-30,30,2023-07-23,12:30,Euro,success
-31,31,2023-06-25,6:10,Yuan Renminbi,success
-32,32,2023-09-13,13:07,Shilling,failed
-33,33,2023-02-18,8:10,Baht,failed
-34,34,2023-02-16,9:46,Lev,failed
-35,35,2023-01-29,23:31,Sol,success
-36,36,2022-12-21,12:46,Yuan Renminbi,failed
-37,37,2023-07-08,16:12,Euro,failed
-38,38,2023-08-13,23:10,Yuan Renminbi,failed
-39,39,2023-07-12,3:44,Afghani,failed
-40,40,2022-12-20,4:30,Rupee,success
-41,41,2023-10-17,10:34,Yuan Renminbi,failed
-42,42,2023-08-24,17:22,Euro,failed
-43,43,2022-12-20,16:51,Peso,success
-44,44,2023-08-10,9:19,Yuan Renminbi,success
-45,45,2022-11-07,23:47,Rupiah,failed
-46,46,2022-11-10,19:41,Franc,success
-47,47,2022-12-03,5:05,Dong,failed
-48,48,2023-08-10,21:58,Ruble,failed
-49,49,2023-01-18,10:58,Hryvnia,success
-50,50,2023-04-06,2:03,Euro,success
-51,51,2023-01-04,20:09,Yuan Renminbi,failed
-52,52,2023-02-07,7:43,Franc,failed
-53,53,2023-05-04,19:38,Yuan Renminbi,success
-54,54,2023-05-12,2:33,Krona,
-55,55,2023-07-09,13:03,Euro,failed
-56,56,2023-05-19,12:09,Rupiah,success
-57,57,2023-01-27,10:49,Krona,success
-58,58,2023-01-06,11:10,Koruna,failed
-59,59,2023-03-10,3:16,Afghani,success
-60,60,2023-07-12,16:16,Peso,success
-61,61,2023-09-19,11:33,Yuan Renminbi,success
-62,62,2023-05-07,16:57,Zloty,failed
-63,63,2023-04-04,9:25,Lev,failed
-64,64,2022-11-18,19:41,Yen,success
-65,65,2022-11-25,4:01,Ruble,success
-66,66,2023-05-05,20:59,Ariary,success
-67,67,2023-02-24,21:20,Yuan Renminbi,success
-68,68,2023-05-11,4:18,Sol,success
-69,69,2023-10-05,21:47,Rupiah,failed
-70,70,2023-03-22,23:58,Quetzal,failed
-71,71,2022-11-26,1:20,Yuan Renminbi,failed
-72,72,2023-01-18,6:42,Ariary,success
-73,73,2023-01-08,19:03,Yuan Renminbi,failed
-74,74,2023-03-21,6:48,Naira,failed
-75,75,2022-12-04,1:20,Euro,failed
-76,76,2023-01-10,12:28,Denar,success
-77,77,2023-10-05,22:32,Real,success
-78,78,2023-07-30,21:07,Dollar,
-79,79,2023-02-12,10:35,Yen,failed
-80,80,2023-04-05,12:35,Peso,success
-81,81,2022-11-21,10:58,Ruble,failed
-82,82,2023-04-03,11:50,Euro,success
-83,83,2022-12-21,1:00,Dollar,failed
-84,84,2023-08-28,9:04,Naira,success
-85,85,2023-01-28,17:15,Sol,failed
-86,86,2023-08-03,2:59,Naira,failed
-87,87,2023-01-19,6:08,Dong,failed
-88,88,2023-01-09,5:39,Rupiah,failed
-89,89,2023-06-11,23:42,Rupiah,failed
-90,90,2023-01-08,9:31,Real,success
-91,91,2023-01-10,0:22,Zloty,failed
-92,92,2023-09-18,8:47,Rupee,success
-93,93,2023-08-05,5:04,Yuan Renminbi,failed
-94,94,2023-10-29,15:29,Euro,success
-95,95,2023-04-21,19:31,Rupee,success
-96,96,2023-05-15,22:29,Peso,failed
-97,97,2023-09-09,8:55,Shekel,success
-98,98,2023-03-31,5:48,Yuan Renminbi,success
-99,99,2023-01-24,22:45,Real,success
-100,100,2023-09-10,9:33,Marka,failed
-101,101,2023-07-08,17:27,Sol,failed
-102,102,2023-11-03,23:32,Yuan Renminbi,success
-103,103,2023-04-20,21:41,Rupiah,
-104,104,2023-07-31,2:00,Yuan Renminbi,failed
-105,105,2023-10-06,5:26,Peso,success
-106,106,2022-11-09,10:11,Peso,failed
-107,107,2023-10-05,3:11,Ruble,success
-108,108,2023-05-12,10:37,Peso,failed
-109,109,2023-06-14,16:33,Peso,failed
-110,110,2023-08-15,14:20,Pound,failed
-111,111,2023-03-12,14:01,Peso,failed
-112,112,2023-06-07,18:23,Dinar,failed
-113,113,2023-05-03,7:02,Peso,
-114,114,2023-07-26,14:32,Peso,failed
-115,115,2022-12-08,11:05,Ruble,success
-116,116,2023-07-16,16:59,Yuan Renminbi,success
-117,117,2023-06-03,5:05,Ringgit,success
-118,118,2023-01-15,5:57,Zloty,success
-119,119,2023-06-29,10:08,Yuan Renminbi,success
-120,120,2022-12-16,23:13,Yuan Renminbi,success
-121,121,2023-07-11,13:38,Euro,failed
-122,122,2023-03-20,3:59,Afghani,success
-123,123,2022-12-06,22:19,Rupiah,failed
-124,124,2023-10-08,8:23,Yuan Renminbi,failed
-125,125,2023-03-08,9:46,Yuan Renminbi,failed
-126,126,2023-05-24,21:59,Yuan Renminbi,success
-127,127,2023-10-07,4:40,Yuan Renminbi,failed
-128,128,2023-04-02,6:26,Real,failed
-129,129,2023-08-23,0:15,Peso,success
-130,130,2022-12-28,21:28,Som,failed
-131,131,2023-03-14,17:56,Euro,failed
-132,132,2023-07-02,20:53,Peso,failed
-133,133,2023-04-26,17:45,Rupiah,success
-134,134,2023-07-27,5:05,Real,failed
-135,135,2023-04-17,13:05,Yuan Renminbi,success
-136,136,2023-09-10,14:20,Euro,success
-137,137,2022-12-11,6:03,Ruble,failed
-138,138,2023-09-11,13:40,Sol,failed
-139,139,2023-09-10,4:29,Rupiah,failed
-140,140,2023-03-23,6:35,Rupiah,failed
-141,141,2023-01-13,9:08,Rupiah,failed
-142,142,2023-06-24,15:52,Euro,failed
-143,143,2023-02-06,23:57,Dinar,failed
-144,144,2023-10-20,8:09,Euro,success
-145,145,2022-11-06,6:46,Franc,failed
-146,146,2023-03-19,14:01,Pound,success
-147,147,2023-01-31,21:12,Euro,failed
-148,148,2023-04-03,21:50,Koruna,success
-149,149,2023-10-26,5:30,Dollar,success
-150,150,2023-05-08,0:01,Rand,failed
-151,151,2023-07-24,2:19,Shekel,failed
-152,152,2023-10-16,11:59,Manat,success
-153,153,2023-07-31,1:48,Pound,success
-154,154,2023-07-21,19:00,Rial,failed
-155,155,2023-02-22,10:25,Pound,failed
-156,156,2023-05-14,2:00,Yuan Renminbi,failed
-157,157,2023-01-11,7:25,Real,failed
-158,158,2023-07-12,12:25,Franc,success
-159,159,2023-03-22,20:15,Real,failed
-160,160,2023-04-02,9:08,Shilling,failed
-161,161,2023-07-17,18:35,Yuan Renminbi,success
-162,162,2023-01-24,19:08,Real,failed
-163,163,2023-08-11,22:55,Euro,success
-164,164,2023-08-21,7:57,Krona,failed
-165,165,2023-03-27,4:21,Rupiah,failed
-166,166,2023-03-24,5:55,Sol,failed
-167,167,2023-06-02,7:07,Yuan Renminbi,success
-168,168,2022-12-04,13:39,Ruble,success
-169,169,2022-12-31,16:54,Peso,failed
-170,170,2023-01-05,16:14,Real,failed
-171,171,2022-12-09,21:55,Yuan Renminbi,failed
-172,172,2023-04-23,18:54,Dollar,failed
-173,173,2023-02-18,7:15,Kuna,failed
-174,174,2023-06-16,17:01,Yuan Renminbi,
-175,175,2023-08-25,17:00,Baht,failed
-176,176,2023-01-04,15:31,Rupiah,failed
-177,177,2022-11-26,14:18,Yuan Renminbi,success
-178,178,2023-08-21,3:52,Rupiah,failed
-179,179,2023-03-05,2:23,Manat,success
-180,180,2023-04-01,6:24,Yuan Renminbi,success
-181,181,2023-09-03,7:05,Pound,failed
-182,182,2022-12-30,10:17,Yuan Renminbi,failed
-183,183,2023-01-04,14:39,Yuan Renminbi,failed
-184,184,2023-09-11,0:26,Euro,success
-185,185,2023-06-01,5:49,Rupiah,success
-186,186,2023-02-22,17:07,Ruble,failed
-187,187,2022-11-12,21:48,Euro,failed
-188,188,2023-10-22,21:47,Yuan Renminbi,success
-189,189,2022-12-25,4:58,Lari,failed
-190,190,2022-12-12,13:20,Real,failed
-191,191,2023-02-07,9:38,Hryvnia,success
-192,192,2023-06-20,7:41,Rupiah,success
-193,193,2023-09-07,10:02,Rupiah,success
-194,194,2023-07-24,22:13,Yuan Renminbi,success
-195,195,2023-09-04,14:50,Bolivar,success
-196,196,2023-01-26,0:32,Dinar,failed
-197,197,2023-01-01,8:12,Yuan Renminbi,success
-198,198,2023-04-11,6:56,Pound,failed
-199,199,2023-07-21,22:13,Yuan Renminbi,failed
-200,200,2023-02-28,0:43,Peso,success
-201,201,2023-09-02,21:43,Franc,failed
-202,202,2023-04-21,5:14,Quetzal,success
-203,203,2023-05-06,20:57,Ruble,failed
-204,204,2023-05-26,14:13,Leone,failed
-205,205,2023-01-24,2:00,Euro,failed
-206,206,2023-03-17,10:50,Ruble,success
-207,207,2023-01-27,0:04,Euro,success
-208,208,2022-12-18,7:12,Yuan Renminbi,success
-209,209,2023-02-12,8:23,Rupiah,failed
-210,210,2022-11-27,21:53,Quetzal,failed
-211,211,2023-05-09,14:36,Zloty,success
-212,212,2023-07-23,5:05,Euro,failed
-213,213,2023-08-08,17:56,Yuan Renminbi,success
-214,214,2023-10-08,19:15,Zloty,failed
-215,215,2022-12-01,7:40,Ruble,success
-216,216,2022-11-10,23:45,Kuna,success
-217,217,2023-09-22,11:01,Euro,success
-218,218,2023-07-12,22:21,Marka,success
-219,219,2023-01-28,11:23,Sol,failed
-220,220,2022-11-11,8:08,Ariary,success
-221,221,2023-05-28,16:41,Ruble,success
-222,222,2023-06-29,10:34,Dong,failed
-223,223,2023-10-09,12:45,Leu,success
-224,224,2023-03-28,0:47,Zloty,failed
-225,225,2022-12-26,20:58,Ruble,
-226,226,2023-05-07,1:30,Escudo,failed
-227,227,2022-11-16,17:19,Euro,failed
-228,228,2023-03-02,15:36,Rupiah,failed
-229,229,2023-07-08,9:49,Euro,failed
-230,230,2023-07-17,12:43,Euro,success
-231,231,2023-06-20,19:01,Koruna,failed
-232,232,2023-10-29,13:56,Rupiah,failed
-233,233,2023-04-30,1:53,Franc,failed
-234,234,2022-11-18,18:10,Rupiah,failed
-235,235,2023-03-31,4:12,Krona,success
-236,236,2023-09-20,1:53,Franc,failed
-237,237,2022-12-14,23:29,Dollar,success
-238,238,2022-12-08,7:48,Euro,success
-239,239,2023-08-07,18:00,Euro,success
-240,240,2022-12-09,5:07,Peso,success
-241,241,2022-11-24,17:03,Rupiah,failed
-242,242,2023-03-23,18:06,Yuan Renminbi,success
-243,243,2023-10-13,10:46,Euro,success
-244,244,2023-01-31,19:31,Yen,failed
-245,245,2023-05-21,4:26,Yuan Renminbi,success
-246,246,2023-06-16,9:09,Rupiah,success
-247,247,2023-03-18,13:58,Yuan Renminbi,failed
-248,248,2023-06-18,12:57,Yuan Renminbi,success
-249,249,2022-11-27,8:21,Euro,success
-250,250,2023-08-24,13:50,Kuna,success
-251,251,2023-03-07,22:07,Peso,failed
-252,252,2023-02-11,20:08,Peso,failed
-253,253,2023-06-07,23:15,Won,failed
-254,254,2022-12-28,4:46,Ruble,failed
-255,255,2023-03-07,18:50,Forint,failed
-256,256,2023-08-24,9:11,Peso,success
-257,257,2023-01-19,19:45,Peso,failed
-258,258,2023-05-31,10:08,Peso,success
-259,259,2023-09-04,4:35,Ruble,success
-260,260,2023-07-04,11:12,Ruble,success
-261,261,2023-07-03,16:58,Yuan Renminbi,success
-262,262,2023-08-04,19:13,Real,failed
-263,263,2023-02-14,1:47,Koruna,success
-264,264,2023-08-19,7:16,Peso,failed
-265,265,2023-07-28,5:10,Yuan Renminbi,success
-266,266,2023-02-06,2:45,Euro,failed
-267,267,2022-12-31,7:03,Rial,
-268,268,2023-05-25,3:25,Euro,success
-269,269,2022-11-19,3:32,Yuan Renminbi,success
-270,270,2023-08-14,5:21,Won,failed
-271,271,2023-06-27,7:10,Peso,failed
-272,272,2023-08-18,13:04,Yuan Renminbi,failed
-273,273,2023-02-27,5:52,Peso,success
-274,274,2023-07-19,9:21,Yen,failed
-275,275,2023-01-09,0:15,Escudo,failed
-276,276,2023-06-21,1:19,Denar,failed
-277,277,2023-04-26,17:29,Yuan Renminbi,success
-278,278,2023-04-15,2:38,Real,success
-279,279,2023-03-11,16:24,Zloty,
-280,280,2023-08-28,20:20,Euro,success
-281,281,2023-01-21,23:10,Yuan Renminbi,success
-282,282,2023-04-19,17:58,Rupiah,failed
-283,283,2023-09-09,5:27,Yuan Renminbi,success
-284,284,2023-02-02,13:52,Yuan Renminbi,success
-285,285,2023-06-20,22:10,Pound,failed
-286,286,2023-07-11,23:15,Yuan Renminbi,success
-287,287,2022-12-28,3:02,Sol,success
-288,288,2023-08-25,22:40,Zloty,success
-289,289,2022-12-25,18:42,Rupiah,success
-290,290,2023-01-04,3:20,Dinar,failed
-291,291,2023-04-08,14:28,Rupee,success
-292,292,2023-10-20,15:43,Rupiah,success
-293,293,2023-05-31,19:53,Yuan Renminbi,success
-294,294,2023-02-15,2:36,Dinar,failed
-295,295,2023-07-18,1:26,Manat,success
-296,296,2023-06-13,14:56,Euro,failed
-297,297,2023-04-22,4:07,Hryvnia,failed
-298,298,2023-04-23,10:41,Ruble,success
-299,299,2023-02-13,23:47,Koruna,failed
-300,300,2023-05-18,4:30,Yuan Renminbi,failed
-301,301,2023-01-03,19:28,Yuan Renminbi,success
-302,302,2023-06-04,17:54,Franc,success
-303,303,2023-04-03,9:47,Ruble,success
-304,304,2023-04-26,3:48,Ruble,failed
-305,305,2023-03-31,14:41,Euro,failed
-306,306,2023-08-03,1:49,Euro,failed
-307,307,2023-06-08,10:19,Yuan Renminbi,success
-308,308,2023-08-18,4:03,Yuan Renminbi,success
-309,309,2023-09-24,22:56,Colon,success
-310,310,2023-01-23,18:24,Shilling,success
-311,311,2023-05-16,9:12,Yuan Renminbi,success
-312,312,2023-05-08,14:00,Franc,success
-313,313,2022-12-21,19:33,Rupiah,failed
-314,314,2023-03-07,20:43,Yen,failed
-315,315,2022-12-05,17:24,Ruble,success
-316,316,2023-02-03,9:46,Yuan Renminbi,failed
-317,317,2023-06-29,6:00,Rupiah,failed
-318,318,2023-07-07,6:24,Rupiah,success
-319,319,2023-03-06,4:43,Rupiah,success
-320,320,2023-03-23,9:31,Krona,failed
-321,321,2023-01-18,21:10,Real,success
-322,322,2022-11-19,11:18,Rupiah,failed
-323,323,2023-01-01,12:00,Rupiah,failed
-324,324,2023-10-28,12:34,Som,failed
-325,325,2023-10-16,7:24,Euro,success
-326,326,2023-02-08,0:06,Yuan Renminbi,failed
-327,327,2023-01-24,19:29,Cedi,failed
-328,328,2023-08-26,19:12,Rial,success
-329,329,2023-01-23,20:06,Ruble,success
-330,330,2022-12-30,9:17,Krona,success
-331,331,2023-07-07,22:42,Peso,failed
-332,332,2023-07-02,15:39,Zloty,failed
-333,333,2023-04-05,18:21,Zloty,
-334,334,2023-05-01,7:31,Sol,failed
-335,335,2023-03-22,2:19,Yen,success
-336,336,2022-12-23,16:25,Peso,success
-337,337,2023-07-28,5:16,Peso,failed
-338,338,2023-10-30,22:19,Yuan Renminbi,failed
-339,339,2023-04-07,13:20,Yen,success
-340,340,2023-03-04,17:07,Lempira,success
-341,341,2023-04-19,19:43,Real,success
-342,342,2023-02-17,21:20,Dollar,failed
-343,343,2023-04-01,15:06,Rupiah,success
-344,344,2023-08-21,12:10,Euro,success
-345,345,2023-09-23,19:18,Peso,failed
-346,346,2023-06-19,15:22,Peso,failed
-347,347,2023-08-16,2:34,Dollar,failed
-348,348,2022-12-13,21:48,Peso,failed
-349,349,2023-05-26,6:33,Euro,failed
-350,350,2023-06-24,18:47,Koruna,failed
-351,351,2023-08-14,5:53,Dinar,failed
-352,352,2023-01-27,10:03,Yuan Renminbi,success
-353,353,2022-12-25,12:44,Yuan Renminbi,failed
-354,354,2023-10-25,11:48,Franc,success
-355,355,2023-06-19,4:36,Rial,success
-356,356,2023-10-11,1:59,Peso,success
-357,357,2023-03-04,19:14,Krona,success
-358,358,2022-12-03,21:28,Peso,failed
-359,359,2023-07-27,6:52,Yuan Renminbi,success
-360,360,2023-07-24,9:32,Kuna,success
-361,361,2023-05-08,6:45,Gourde,success
-362,362,2022-12-29,6:28,Dram,failed
-363,363,2023-09-05,10:24,Zloty,success
-364,364,2023-03-09,0:18,Yuan Renminbi,success
-365,365,2023-07-22,1:11,Colon,success
-366,366,2023-05-12,19:13,Dollar,success
-367,367,2023-10-22,0:27,Euro,success
-368,368,2023-08-20,0:53,Peso,failed
-369,369,2023-04-22,1:47,Peso,success
-370,370,2023-07-15,14:51,Tugrik,failed
-371,371,2023-07-04,21:37,Euro,success
-372,372,2023-07-28,23:11,Yuan Renminbi,success
-373,373,2023-03-18,12:50,Yuan Renminbi,success
-374,374,2023-02-17,13:06,Shilling,success
-375,375,2023-03-14,8:34,Rupee,success
-376,376,2023-08-12,7:29,Ruble,success
-377,377,2023-10-23,4:10,Dollar,failed
-378,378,2023-07-13,21:23,Yuan Renminbi,failed
-379,379,2023-09-21,3:10,Dong,success
-380,380,2023-04-07,5:19,Yuan Renminbi,success
-381,381,2023-03-21,4:52,Quetzal,success
-382,382,2023-06-20,11:50,Ruble,success
-383,383,2023-08-22,0:05,Krona,success
-384,384,2022-11-17,9:12,Rupiah,failed
-385,385,2023-01-25,7:57,Dong,success
-386,386,2023-09-23,9:04,Kuna,success
-387,387,2023-05-14,0:24,Peso,success
-388,388,2023-03-25,4:06,Yuan Renminbi,success
-389,389,2023-01-03,18:26,Ruble,success
-390,390,2023-04-15,4:59,Real,failed
-391,391,2022-11-06,21:52,Real,failed
-392,392,2023-06-19,10:00,Peso,failed
-393,393,2023-01-20,18:06,Rupee,failed
-394,394,2022-11-08,21:20,Krone,failed
-395,395,2023-06-08,5:18,Hryvnia,success
-396,396,2023-07-04,5:12,Yuan Renminbi,success
-397,397,2023-10-02,19:52,Euro,success
-398,398,2023-07-21,16:29,Euro,failed
-399,399,2022-12-08,9:19,Euro,success
-400,400,2023-04-20,16:25,Yuan Renminbi,failed
-401,401,2023-02-21,11:38,Peso,
-402,402,2022-12-15,12:04,Quetzal,failed
-403,403,2023-01-21,22:09,Yuan Renminbi,success
-404,404,2023-10-05,23:42,Koruna,failed
-405,405,2023-10-08,5:29,Yuan Renminbi,success
-406,406,2023-01-18,20:46,Real,failed
-407,407,2023-07-24,2:27,Euro,success
-408,408,2023-06-10,7:05,Yuan Renminbi,failed
-409,409,2022-11-16,6:48,Yuan Renminbi,success
-410,410,2022-11-16,2:21,Taka,success
-411,411,2023-01-30,19:08,Dinar,success
-412,412,2023-08-25,14:21,Yuan Renminbi,failed
-413,413,2022-12-13,2:07,Ruble,success
-414,414,2022-12-29,2:52,Sol,success
-415,415,2023-10-27,21:00,Yuan Renminbi,success
-416,416,2023-03-24,21:21,Dollar,failed
-417,417,2023-02-14,1:40,Afghani,failed
-418,418,2023-09-23,13:48,Euro,success
-419,419,2022-12-19,18:15,Euro,failed
-420,420,2023-02-04,15:27,Yuan Renminbi,success
-421,421,2023-11-01,3:20,Boliviano,failed
-422,422,2023-02-26,2:02,Dinar,success
-423,423,2023-06-22,15:18,Euro,
-424,424,2023-10-09,0:21,Euro,success
-425,425,2023-06-05,9:32,Rupiah,success
-426,426,2023-10-10,16:54,Rupiah,failed
-427,427,2022-11-19,2:50,Franc,success
-428,428,2023-02-02,15:53,Ruble,failed
-429,429,2023-03-19,16:27,Rand,success
-430,430,2023-10-01,17:31,Rupiah,success
-431,431,2023-03-30,19:27,Euro,failed
-432,432,2022-11-28,8:34,Real,success
-433,433,2023-02-24,19:36,Yuan Renminbi,success
-434,434,2023-02-22,16:38,Dong,
-435,435,2023-01-14,21:22,Hryvnia,failed
-436,436,2023-01-11,10:10,Dollar,success
-437,437,2023-03-16,0:10,Peso,success
-438,438,2023-01-01,1:43,Yuan Renminbi,success
-439,439,2022-11-19,20:59,Euro,failed
-440,440,2023-01-29,21:08,Rupiah,success
-441,441,2023-02-16,13:48,Yuan Renminbi,success
-442,442,2022-11-26,9:39,Yuan Renminbi,failed
-443,443,2023-01-08,13:31,Peso,success
-444,444,2023-03-03,21:51,Yuan Renminbi,success
-445,445,2023-08-30,14:02,Peso,failed
-446,446,2023-08-29,8:04,Somoni,success
-447,447,2023-07-24,11:21,Lev,success
-448,448,2022-11-19,2:54,Peso,failed
-449,449,2023-09-19,13:58,Peso,failed
-450,450,2023-01-10,2:40,Euro,failed
-451,451,2023-04-01,8:03,Euro,success
-452,452,2023-03-12,16:20,Yen,failed
-453,453,2023-02-11,6:53,Yuan Renminbi,success
-454,454,2023-03-21,6:40,Real,failed
-455,455,2023-03-08,21:42,Ruble,success
-456,456,2022-11-05,10:38,Dinar,success
-457,457,2023-08-05,7:46,Yuan Renminbi,failed
-458,458,2023-09-15,21:46,Koruna,
-459,459,2023-06-18,13:10,Pound,success
-460,460,2023-06-15,4:11,Krona,failed
-461,461,2022-11-16,19:37,Dollar,failed
-462,462,2023-08-06,12:33,Real,failed
-463,463,2022-11-25,8:16,Ruble,failed
-464,464,2022-12-08,1:23,Rand,failed
-465,465,2023-07-05,20:33,Peso,success
-466,466,2023-05-19,19:05,Bolivar,
-467,467,2023-02-17,3:51,Bolivar,failed
-468,468,2023-06-11,9:27,Ruble,failed
-469,469,2023-09-09,4:35,Ouguiya,success
-470,470,2023-09-28,6:08,Hryvnia,failed
-471,471,2023-11-03,20:26,Dinar,failed
-472,472,2023-03-15,18:17,Rupiah,failed
-473,473,2023-02-23,23:22,Euro,success
-474,474,2023-07-09,22:23,Rial,success
-475,475,2023-09-04,20:19,Yuan Renminbi,failed
-476,476,2023-02-22,10:55,Dinar,success
-477,477,2023-09-14,15:06,Ruble,failed
-478,478,2023-04-07,9:30,Dollar,success
-479,479,2023-04-09,16:10,Pound,success
-480,480,2023-05-24,16:16,Hryvnia,failed
-481,481,2023-05-27,4:05,Real,failed
-482,482,2022-12-05,1:53,Euro,failed
-483,483,2022-11-10,8:34,Dram,failed
-484,484,2023-10-15,18:20,Real,failed
-485,485,2023-04-19,1:33,Dollar,success
-486,486,2023-09-28,17:21,Sol,failed
-487,487,2023-02-01,6:00,Yuan Renminbi,
-488,488,2023-02-05,13:17,Euro,success
-489,489,2023-02-23,6:15,Real,failed
-490,490,2023-04-24,14:11,Peso,failed
-491,491,2023-09-23,21:49,Yuan Renminbi,success
-492,492,2023-06-15,3:05,Yen,success
-493,493,2023-08-21,19:15,Real,failed
-494,494,2023-05-07,2:17,Yuan Renminbi,success
-495,495,2023-06-20,5:19,Rupiah,success
-496,496,2023-07-27,2:17,Lek,
-497,497,2022-11-29,19:29,Ruble,
-498,498,2022-12-17,11:36,Yuan Renminbi,failed
-499,499,2023-02-10,21:04,Euro,success
-500,500,2023-06-11,21:32,Yuan Renminbi,failed
-501,501,2023-07-31,1:35,Dollar,success
-502,502,2023-03-31,19:32,Dollar,failed
-503,503,2023-06-05,9:21,Yuan Renminbi,failed
-504,504,2023-10-13,1:13,Peso,success
-505,505,2023-02-18,1:00,Peso,success
-506,506,2023-04-06,8:27,Ruble,failed
-507,507,2023-05-08,10:53,Hryvnia,failed
-508,508,2023-01-19,21:45,Yuan Renminbi,failed
-509,509,2023-09-18,18:23,Lek,failed
-510,510,2023-06-29,20:00,Lari,failed
-511,511,2022-11-19,9:45,Euro,success
-512,512,2023-09-13,17:02,Yuan Renminbi,success
-513,513,2023-04-13,4:18,Kuna,success
-514,514,2023-07-15,14:40,Zloty,success
-515,515,2023-07-18,2:21,Zloty,success
-516,516,2023-06-14,12:52,Euro,failed
-517,517,2023-07-01,23:23,Yuan Renminbi,success
-518,518,2023-06-26,13:35,Zloty,failed
-519,519,2023-10-11,20:20,Peso,success
-520,520,2023-08-02,11:27,Rupiah,failed
-521,521,2023-06-12,16:45,Real,failed
-522,522,2022-12-03,7:34,Shilling,failed
-523,523,2023-08-07,21:58,Yuan Renminbi,failed
-524,524,2023-03-22,20:28,Euro,failed
-525,525,2023-08-09,20:08,Yuan Renminbi,failed
-526,526,2023-06-16,23:19,Peso,success
-527,527,2023-10-08,0:15,Yen,failed
-528,528,2023-08-08,15:03,Euro,success
-529,529,2023-02-02,13:02,Dinar,success
-530,530,2023-10-02,5:34,Hryvnia,success
-531,531,2023-09-10,3:54,Lempira,failed
-532,532,2023-07-30,7:33,Rupiah,failed
-533,533,2022-12-30,15:09,Rial,failed
-534,534,2023-07-19,9:44,Rupee,failed
-535,535,2023-05-17,12:24,Quetzal,failed
-536,536,2023-04-17,19:12,Real,failed
-537,537,2023-06-17,14:06,Euro,success
-538,538,2022-12-28,10:01,Euro,failed
-539,539,2023-08-22,21:52,Real,success
-540,540,2023-10-26,20:15,Real,success
-541,541,2023-06-14,20:21,Euro,success
-542,542,2023-04-05,23:42,Rial,success
-543,543,2023-08-29,10:35,Shekel,failed
-544,544,2023-01-16,9:06,Rupiah,failed
-545,545,2023-05-08,13:44,Euro,failed
-546,546,2023-09-13,11:59,Yuan Renminbi,
-547,547,2023-06-24,3:44,Rupiah,success
-548,548,2023-08-16,23:42,Euro,failed
-549,549,2023-01-18,8:24,Peso,success
-550,550,2023-01-06,22:01,Baht,success
-551,551,2023-06-13,1:00,Somoni,success
-552,552,2022-12-02,16:22,Yuan Renminbi,failed
-553,553,2022-11-13,16:51,Rial,success
-554,554,2023-02-18,11:28,Franc,failed
-555,555,2023-07-25,17:02,Yuan Renminbi,failed
-556,556,2022-12-18,1:18,Rupee,success
-557,557,2022-12-13,0:07,Euro,failed
-558,558,2023-03-15,12:24,Peso,success
-559,559,2023-03-07,4:28,Yuan Renminbi,success
-560,560,2023-10-29,4:37,Ruble,success
-561,561,2022-11-20,18:30,Yuan Renminbi,failed
-562,562,2023-05-02,11:25,Rupiah,failed
-563,563,2023-06-22,17:50,Denar,success
-564,564,2022-11-21,15:21,Rupee,success
-565,565,2023-07-16,12:39,Rupiah,failed
-566,566,2022-11-06,16:57,Shilling,success
-567,567,2023-09-08,2:54,Yuan Renminbi,failed
-568,568,2023-08-06,12:54,Yuan Renminbi,failed
-569,569,2023-11-02,21:44,Rupiah,success
-570,570,2022-12-03,9:21,Ruble,failed
-571,571,2023-09-16,14:17,Peso,success
-572,572,2023-04-20,1:57,Dinar,
-573,573,2023-02-16,14:14,Yuan Renminbi,success
-574,574,2023-04-01,20:37,Yuan Renminbi,
-575,575,2023-03-14,5:48,Yuan Renminbi,success
-576,576,2023-09-30,6:57,Real,failed
-577,577,2023-10-31,16:18,Peso,failed
-578,578,2023-03-31,7:30,Shilling,success
-579,579,2022-11-10,0:55,Yuan Renminbi,success
-580,580,2023-05-20,15:33,Yuan Renminbi,success
-581,581,2023-04-18,7:37,Rupiah,
-582,582,2022-11-27,23:31,Euro,failed
-583,583,2023-10-29,17:48,Ruble,success
-584,584,2023-08-31,18:19,Rupiah,
-585,585,2023-08-03,3:45,Yuan Renminbi,failed
-586,586,2023-08-03,10:24,Zloty,success
-587,587,2023-02-27,10:49,Krone,success
-588,588,2023-01-01,20:13,Rupee,failed
-589,589,2023-06-18,9:51,Zloty,failed
-590,590,2023-03-28,8:12,Rupiah,success
-591,591,2023-06-12,15:23,Yuan Renminbi,success
-592,592,2023-08-06,18:04,Sol,failed
-593,593,2023-03-02,4:24,Rand,failed
-594,594,2023-01-18,10:14,Baht,success
-595,595,2022-12-10,13:05,Real,success
-596,596,2022-11-07,22:13,Lek,success
-597,597,2023-04-20,22:47,Krona,failed
-598,598,2023-04-28,2:49,Yuan Renminbi,success
-599,599,2023-05-19,13:32,Yuan Renminbi,
-600,600,2023-05-13,21:05,Peso,success
-601,601,2023-10-01,4:06,Euro,success
-602,602,2023-09-27,23:32,Euro,failed
-603,603,2023-06-12,4:51,Yuan Renminbi,failed
-604,604,2023-09-02,22:15,Real,success
-605,605,2022-11-08,6:00,Rupiah,success
-606,606,2022-12-18,7:54,Peso,failed
-607,607,2023-04-11,12:23,Tugrik,failed
-608,608,2023-09-14,3:41,Peso,failed
-609,609,2023-02-24,12:36,Ruble,failed
-610,610,2023-09-15,12:06,Pound,failed
-611,611,2023-07-13,12:54,Krona,failed
-612,612,2023-10-02,4:17,Zloty,success
-613,613,2023-03-28,8:45,Peso,failed
-614,614,2022-12-26,5:44,Dinar,failed
-615,615,2023-04-12,1:32,Quetzal,success
-616,616,2023-04-15,10:59,Ruble,failed
-617,617,2023-07-07,6:54,Koruna,failed
-618,618,2023-03-19,7:16,Koruna,failed
-619,619,2023-02-26,17:43,Dollar,failed
-620,620,2023-10-03,0:55,Koruna,success
-621,621,2023-10-30,16:01,Rupiah,failed
-622,622,2023-08-20,16:52,Rupiah,failed
-623,623,2023-02-07,12:20,Rupiah,failed
-624,624,2023-06-06,5:39,Colon,failed
-625,625,2023-05-04,4:46,Yuan Renminbi,success
-626,626,2023-04-25,16:35,Euro,failed
-627,627,2023-10-14,3:29,Yuan Renminbi,failed
-628,628,2022-12-30,11:53,Hryvnia,failed
-629,629,2023-10-14,19:05,Peso,success
-630,630,2023-04-02,4:46,Yuan Renminbi,success
-631,631,2022-12-03,6:42,Rupiah,failed
-632,632,2023-07-13,22:23,Sol,success
-633,633,2022-11-10,20:04,Peso,failed
-634,634,2023-05-10,13:10,Koruna,failed
-635,635,2023-08-30,10:23,Rupiah,success
-636,636,2023-02-07,20:05,Zloty,success
-637,637,2023-10-01,10:21,Rupiah,failed
-638,638,2023-08-04,2:42,Dollar,failed
-639,639,2022-12-12,12:45,Sol,failed
-640,640,2022-12-25,14:11,Peso,failed
-641,641,2022-11-20,7:56,Ruble,failed
-642,642,2023-10-18,23:27,Rupiah,success
-643,643,2023-03-04,2:49,Euro,success
-644,644,2022-12-26,1:48,Zloty,success
-645,645,2023-08-04,18:57,Peso,success
-646,646,2023-02-14,2:16,Koruna,failed
-647,647,2022-12-08,14:34,Peso,success
-648,648,2023-06-21,16:23,Dollar,success
-649,649,2023-01-21,8:07,Euro,failed
-650,650,2023-06-22,0:56,Yuan Renminbi,success
-651,651,2023-07-29,15:11,Won,success
-652,652,2022-11-19,10:43,Euro,success
-653,653,2023-02-20,17:13,Peso,failed
-654,654,2023-09-26,16:55,Dollar,success
-655,655,2023-09-03,18:17,Ruble,failed
-656,656,2023-08-25,2:13,Kyat,success
-657,657,2023-08-03,10:01,Yuan Renminbi,success
-658,658,2023-03-10,20:39,Som,failed
-659,659,2023-07-19,19:22,Yuan Renminbi,failed
-660,660,2023-05-20,18:30,Rupiah,success
-661,661,2023-09-14,4:46,Ringgit,success
-662,662,2023-03-03,18:03,Euro,success
-663,663,2023-03-23,17:28,Euro,failed
-664,664,2023-09-06,12:00,Dram,success
-665,665,2023-02-16,5:37,Rial,success
-666,666,2023-07-11,0:14,Dong,failed
-667,667,2023-06-28,0:08,Peso,failed
-668,668,2022-12-03,0:49,Sol,success
-669,669,2023-04-13,1:40,Afghani,failed
-670,670,2023-09-17,12:36,Ruble,success
-671,671,2023-04-27,11:09,Euro,failed
-672,672,2023-08-28,1:42,Shilling,failed
-673,673,2023-10-14,23:39,Rupiah,success
-674,674,2023-01-17,20:34,Dollar,success
-675,675,2023-05-14,5:43,Yuan Renminbi,failed
-676,676,2022-12-29,2:00,Ruble,failed
-677,677,2023-08-16,3:11,Dollar,success
-678,678,2023-02-07,11:48,Quetzal,success
-679,679,2023-02-08,22:01,Yuan Renminbi,success
-680,680,2023-08-14,7:10,Naira,failed
-681,681,2023-08-03,13:07,Krone,success
-682,682,2022-12-10,15:16,Ariary,failed
-683,683,2023-02-18,9:37,Franc,failed
-684,684,2023-05-05,2:32,Tenge,failed
-685,685,2023-06-09,2:31,Rupiah,success
-686,686,2023-03-27,23:23,Euro,failed
-687,687,2023-05-11,8:14,Franc,failed
-688,688,2023-10-14,4:16,Ringgit,failed
-689,689,2023-09-30,4:00,Yuan Renminbi,failed
-690,690,2023-08-03,11:42,Franc,failed
-691,691,2023-05-16,7:56,Ringgit,failed
-692,692,2023-05-24,18:24,Euro,success
-693,693,2023-05-21,21:08,Yuan Renminbi,success
-694,694,2022-11-23,4:51,Real,success
-695,695,2023-08-22,14:57,Dollar,success
-696,696,2022-11-15,7:13,Real,failed
-697,697,2023-09-02,19:49,Shekel,failed
-698,698,2023-10-14,2:18,Ruble,failed
-699,699,2022-11-27,14:25,Yuan Renminbi,success
-700,700,2022-11-07,22:48,Yuan Renminbi,success
-701,701,2022-12-23,3:39,Yuan Renminbi,success
-702,702,2023-09-27,1:15,Real,success
-703,703,2023-06-05,2:23,Peso,success
-704,704,2023-09-17,13:23,Zloty,failed
-705,705,2023-07-05,4:41,Zloty,success
-706,706,2022-12-09,1:39,Yuan Renminbi,success
-707,707,2023-08-22,9:40,Ruble,success
-708,708,2023-05-06,2:22,Yen,
-709,709,2023-10-28,18:55,Rupiah,success
-710,710,2023-08-15,12:18,Dalasi,failed
-711,711,2023-03-25,4:28,Euro,success
-712,712,2023-01-28,8:26,Ruble,failed
-713,713,2023-01-31,22:48,Leone,success
-714,714,2023-10-14,18:48,Yuan Renminbi,failed
-715,715,2023-03-27,6:27,Sol,failed
-716,716,2023-01-03,10:42,Yuan Renminbi,failed
-717,717,2023-07-05,23:47,Rupiah,failed
-718,718,2023-10-21,1:52,Yuan Renminbi,success
-719,719,2023-06-16,18:39,Yuan Renminbi,failed
-720,720,2023-02-06,11:41,Dollar,success
-721,721,2023-05-04,21:21,Peso,failed
-722,722,2023-05-13,4:20,Rand,success
-723,723,2023-03-11,11:50,Yuan Renminbi,failed
-724,724,2022-12-15,3:12,Dinar,failed
-725,725,2023-07-29,19:38,Dollar,success
-726,726,2023-05-26,10:01,Yuan Renminbi,success
-727,727,2023-10-03,6:02,Pound,failed
-728,728,2023-10-05,19:30,Afghani,failed
-729,729,2023-01-27,14:39,Yuan Renminbi,failed
-730,730,2023-02-09,21:13,Yuan Renminbi,failed
-731,731,2022-12-30,14:35,Peso,
-732,732,2023-10-20,10:41,Yuan Renminbi,failed
-733,733,2023-10-25,13:36,Ruble,success
-734,734,2023-04-07,23:46,Dollar,failed
-735,735,2023-09-30,21:57,Rupiah,success
-736,736,2023-07-01,1:21,Dollar,failed
-737,737,2023-03-18,21:45,Koruna,failed
-738,738,2022-12-26,12:19,Rupiah,failed
-739,739,2023-10-12,0:27,Peso,success
-740,740,2023-08-28,6:18,Rupiah,success
-741,741,2022-11-08,15:33,Baht,failed
-742,742,2023-11-02,4:36,Dollar,failed
-743,743,2022-11-21,6:07,Real,failed
-744,744,2023-05-11,14:30,Rupiah,success
-745,745,2023-04-12,15:50,Euro,success
-746,746,2023-04-21,19:42,Yen,failed
-747,747,2023-01-24,1:38,Yuan Renminbi,failed
-748,748,2022-11-17,13:01,Sol,success
-749,749,2023-09-24,12:51,Yuan Renminbi,failed
-750,750,2023-04-01,6:06,Franc,success
-751,751,2023-03-21,14:05,Yuan Renminbi,failed
-752,752,2023-05-30,15:27,Yuan Renminbi,failed
-753,753,2022-11-29,6:36,Yuan Renminbi,success
-754,754,2023-09-28,2:34,Lev,success
-755,755,2023-03-29,10:00,Euro,success
-756,756,2023-09-29,6:33,Zloty,success
-757,757,2023-07-27,5:14,Yen,success
-758,758,2023-07-03,14:02,Dollar,success
-759,759,2023-09-25,6:36,Dollar,
-760,760,2023-10-03,21:56,Won,success
-761,761,2023-03-30,1:27,Naira,failed
-762,762,2023-01-11,11:19,Dollar,success
-763,763,2022-11-08,12:42,Real,failed
-764,764,2023-10-28,13:19,Yuan Renminbi,success
-765,765,2023-10-11,12:04,Ruble,success
-766,766,2023-06-23,17:23,Euro,success
-767,767,2022-12-04,11:50,Yuan Renminbi,failed
-768,768,2023-03-26,23:20,Dollar,failed
-769,769,2023-02-06,15:07,Ruble,success
-770,770,2022-12-23,2:00,Peso,failed
-771,771,2023-06-10,6:55,Birr,failed
-772,772,2023-06-07,2:28,Peso,success
-773,773,2023-06-30,3:43,Krone,failed
-774,774,2023-01-29,10:36,Euro,failed
-775,775,2023-03-31,12:26,Som,failed
-776,776,2023-01-27,10:00,Dollar,success
-777,777,2023-04-22,15:00,Lempira,failed
-778,778,2023-08-20,0:00,Krona,success
-779,779,2023-09-25,1:19,Ruble,success
-780,780,2023-03-09,20:48,Euro,success
-781,781,2023-07-08,12:54,Krona,
-782,782,2023-07-30,5:48,Escudo,success
-783,783,2023-06-16,0:03,Denar,success
-784,784,2023-07-11,10:32,Yuan Renminbi,failed
-785,785,2023-04-15,15:21,Ringgit,success
-786,786,2023-05-23,10:01,Dollar,
-787,787,2023-07-08,23:19,Rupiah,failed
-788,788,2023-08-16,5:37,Peso,failed
-789,789,2022-12-15,8:50,Yuan Renminbi,success
-790,790,2023-08-05,9:35,Euro,success
-791,791,2023-09-17,10:11,Yuan Renminbi,failed
-792,792,2023-07-02,19:16,Yuan Renminbi,success
-793,793,2022-11-05,5:48,Euro,failed
-794,794,2023-04-09,0:54,Rupee,failed
-795,795,2023-06-14,15:45,Real,success
-796,796,2023-03-15,8:09,Yuan Renminbi,success
-797,797,2023-07-28,20:39,Dong,success
-798,798,2023-08-21,20:02,Peso,success
-799,799,2023-02-06,16:00,Lempira,failed
-800,800,2023-09-02,19:40,Marka,success
-801,801,2023-07-03,5:20,Yuan Renminbi,failed
-802,802,2023-01-04,19:21,Yuan Renminbi,
-803,803,2023-08-13,16:51,Peso,success
-804,804,2023-03-19,14:34,Rupiah,success
-805,805,2023-01-09,15:37,Yuan Renminbi,success
-806,806,2023-02-16,8:55,Dinar,failed
-807,807,2022-12-16,22:32,Real,success
-808,808,2023-10-27,9:49,Peso,
-809,809,2023-05-13,0:50,Peso,
-810,810,2022-11-16,10:37,Tugrik,failed
-811,811,2023-03-28,2:06,Peso,
-812,812,2023-03-09,5:43,Zloty,success
-813,813,2023-03-31,1:30,Lev,failed
-814,814,2023-05-27,18:38,Shekel,success
-815,815,2022-11-06,10:32,Kyat,success
-816,816,2022-12-12,16:01,Yuan Renminbi,success
-817,817,2023-03-31,13:36,Somoni,failed
-818,818,2022-12-20,9:26,Shilling,failed
-819,819,2023-04-27,10:09,Real,failed
-820,820,2023-09-11,7:23,Ruble,failed
-821,821,2023-01-31,0:42,Yuan Renminbi,success
-822,822,2023-03-16,2:30,Yuan Renminbi,success
-823,823,2023-01-05,12:34,Dollar,success
-824,824,2022-12-12,7:18,Rupiah,success
-825,825,2023-02-11,1:42,Yen,failed
-826,826,2023-05-14,9:15,Ruble,success
-827,827,2023-03-07,14:49,Yuan Renminbi,success
-828,828,2023-10-28,5:58,Peso,success
-829,829,2023-02-01,20:30,Naira,success
-830,830,2023-10-05,5:05,Rupiah,failed
-831,831,2023-05-27,11:10,Lempira,failed
-832,832,2023-07-12,20:26,Yuan Renminbi,success
-833,833,2023-06-08,14:04,Peso,success
-834,834,2022-12-08,6:04,Yuan Renminbi,failed
-835,835,2023-01-19,12:26,Rupiah,failed
-836,836,2023-06-06,3:06,Yuan Renminbi,success
-837,837,2023-05-11,13:41,Shekel,success
-838,838,2022-12-18,12:50,Peso,failed
-839,839,2023-06-28,4:39,Euro,failed
-840,840,2023-02-23,6:53,Baht,success
-841,841,2023-01-19,5:29,Yuan Renminbi,success
-842,842,2023-09-13,20:09,Dalasi,failed
-843,843,2023-09-27,1:47,Tenge,failed
-844,844,2022-11-16,7:22,Euro,failed
-845,845,2023-07-09,15:45,Real,failed
-846,846,2023-03-27,13:59,Euro,failed
-847,847,2023-05-09,5:03,Euro,
-848,848,2023-08-29,9:07,Litas,success
-849,849,2023-03-05,5:48,Ruble,success
-850,850,2023-05-09,13:33,Koruna,success
-851,851,2023-09-24,11:49,Euro,failed
-852,852,2022-12-21,12:43,Yuan Renminbi,success
-853,853,2023-07-09,1:11,Sol,failed
-854,854,2022-12-29,17:39,Dollar,failed
-855,855,2023-03-10,14:11,Won,success
-856,856,2023-08-09,3:05,Yuan Renminbi,failed
-857,857,2023-09-19,8:36,Dollar,failed
-858,858,2023-07-23,5:41,Rupiah,success
-859,859,2023-03-24,18:37,Yuan Renminbi,failed
-860,860,2022-11-25,20:26,Franc,failed
-861,861,2023-04-09,10:47,Yuan Renminbi,failed
-862,862,2023-06-11,16:39,Ruble,failed
-863,863,2023-10-10,10:44,Euro,success
-864,864,2023-10-12,22:20,Rupee,failed
-865,865,2023-08-04,0:22,Euro,failed
-866,866,2023-06-23,22:21,Zloty,success
-867,867,2023-07-04,11:48,Rupiah,failed
-868,868,2023-02-19,19:00,Kwacha,success
-869,869,2023-07-21,14:26,Kwacha,failed
-870,870,2023-01-28,3:42,Real,failed
-871,871,2023-05-09,18:11,Franc,success
-872,872,2023-09-13,20:47,Peso,failed
-873,873,2023-09-09,10:28,Yuan Renminbi,success
-874,874,2023-03-29,7:35,Yuan Renminbi,success
-875,875,2023-08-19,14:26,Rupiah,success
-876,876,2023-01-19,21:17,Hryvnia,
-877,877,2023-04-15,11:15,Taka,failed
-878,878,2023-02-26,7:23,Peso,success
-879,879,2023-05-28,14:46,Yuan Renminbi,failed
-880,880,2023-04-20,23:19,Yuan Renminbi,failed
-881,881,2023-08-09,15:42,Pound,failed
-882,882,2023-06-09,15:36,Real,success
-883,883,2023-01-22,1:43,Ruble,success
-884,884,2022-11-19,2:20,Ruble,failed
-885,885,2023-08-17,13:29,Yuan Renminbi,success
-886,886,2023-07-09,2:33,Baht,success
-887,887,2023-07-24,6:58,Euro,success
-888,888,2023-09-27,11:55,Euro,failed
-889,889,2023-05-27,17:00,Rupiah,failed
-890,890,2023-01-09,18:18,Yuan Renminbi,failed
-891,891,2023-01-24,10:06,Real,failed
-892,892,2023-08-22,20:47,Kuna,success
-893,893,2023-10-12,3:30,Rupiah,
-894,894,2023-06-04,5:48,Naira,success
-895,895,2022-12-20,20:56,Ruble,success
-896,896,2023-02-28,21:19,Dollar,success
-897,897,2023-06-06,3:40,Franc,
-898,898,2023-05-22,5:38,Euro,success
-899,899,2023-09-20,5:20,Rupee,success
-900,900,2023-07-19,0:42,Real,success
-901,901,2023-01-01,19:28,Peso,
-902,902,2023-05-26,3:42,Peso,failed
-903,903,2022-11-16,7:21,Sol,success
-904,904,2023-07-19,16:03,Yuan Renminbi,failed
-905,905,2023-08-12,3:30,Dollar,success
-906,906,2023-08-10,16:09,Rupiah,failed
-907,907,2023-02-15,17:34,Pound,success
-908,908,2023-10-10,22:09,Rupiah,success
-909,909,2022-12-06,3:54,Ruble,success
-910,910,2023-10-15,15:32,Rupiah,failed
-911,911,2023-01-03,10:32,Peso,success
-912,912,2023-03-12,15:44,Euro,failed
-913,913,2022-12-20,17:33,Yuan Renminbi,failed
-914,914,2023-08-30,15:29,Euro,failed
-915,915,2023-05-14,5:00,Rupiah,success
-916,916,2023-09-16,6:39,Euro,success
-917,917,2023-08-10,20:24,Sol,success
-918,918,2023-04-20,15:57,Dollar,success
-919,919,2022-12-29,19:25,Real,failed
-920,920,2023-09-06,22:52,Yuan Renminbi,success
-921,921,2022-11-28,5:55,Euro,failed
-922,922,2023-05-05,21:38,Dollar,failed
-923,923,2023-04-20,9:18,Dollar,failed
-924,924,2023-04-13,23:53,Ruble,failed
-925,925,2023-02-07,18:15,Pound,failed
-926,926,2022-12-16,17:11,Yuan Renminbi,failed
-927,927,2023-10-04,0:34,Rupiah,success
-928,928,2023-03-15,10:46,Yen,
-929,929,2023-03-24,20:12,Peso,
-930,930,2023-04-14,21:45,Yuan Renminbi,
-931,931,2022-12-25,0:03,Yuan Renminbi,success
-932,932,2023-06-22,21:08,Real,success
-933,933,2023-08-03,16:15,Peso,failed
-934,934,2023-06-19,13:04,Rupiah,failed
-935,935,2023-08-18,12:20,Ringgit,failed
-936,936,2023-01-05,0:39,Yuan Renminbi,failed
-937,937,2023-09-08,16:33,Ringgit,success
-938,938,2022-11-14,14:09,Yuan Renminbi,failed
-939,939,2023-08-25,2:15,Euro,failed
-940,940,2023-10-05,22:49,Hryvnia,success
-941,941,2023-02-06,19:55,Rupiah,success
-942,942,2022-11-27,5:58,Peso,failed
-943,943,2023-09-10,13:05,Ruble,failed
-944,944,2023-09-28,20:16,Lev,
-945,945,2023-09-25,0:00,Zloty,failed
-946,946,2023-08-07,22:55,Zloty,failed
-947,947,2022-12-01,9:04,Yuan Renminbi,success
-948,948,2023-02-19,5:45,Yuan Renminbi,failed
-949,949,2023-02-07,11:11,Rupiah,failed
-950,950,2022-12-11,21:28,Pound,success
-951,951,2023-10-06,19:59,Yuan Renminbi,failed
-952,952,2023-04-30,17:59,Yen,failed
-953,953,2022-12-22,1:52,Dollar,
-954,954,2023-08-22,14:12,Yuan Renminbi,success
-955,955,2023-07-06,15:36,Peso,success
-956,956,2023-02-11,23:23,Naira,failed
-957,957,2023-08-31,2:22,Yuan Renminbi,failed
-958,958,2023-03-27,10:29,Lempira,failed
-959,959,2023-06-27,9:00,Krona,success
-960,960,2023-10-04,20:04,Pound,success
-961,961,2023-03-26,23:17,Pula,failed
-962,962,2023-07-07,8:33,Won,failed
-963,963,2023-01-27,20:37,Yuan Renminbi,success
-964,964,2023-02-11,15:03,Yuan Renminbi,success
-965,965,2023-10-23,23:36,Euro,success
-966,966,2023-01-25,8:40,Yuan Renminbi,failed
-967,967,2023-09-25,6:03,Euro,success
-968,968,2023-06-21,4:21,Yuan Renminbi,failed
-969,969,2023-03-17,17:43,Yuan Renminbi,failed
-970,970,2022-11-14,10:42,Yuan Renminbi,success
-971,971,2023-05-09,6:12,Bolivar,success
-972,972,2023-10-19,15:31,Rupiah,success
-973,973,2022-12-14,0:17,Yuan Renminbi,success
-974,974,2023-08-11,21:33,Peso,success
-975,975,2023-10-16,9:18,Ringgit,failed
-976,976,2023-07-02,5:04,Zloty,success
-977,977,2023-03-09,11:00,Sol,failed
-978,978,2023-09-15,5:45,Yuan Renminbi,failed
-979,979,2023-09-24,11:07,Rupiah,success
-980,980,2023-09-18,23:30,Zloty,failed
-981,981,2023-06-14,20:02,Peso,failed
-982,982,2023-08-21,21:22,Yuan Renminbi,
-983,983,2023-05-08,13:16,Yen,
-984,984,2023-09-17,4:51,Baht,failed
-985,985,2023-08-21,19:27,Sol,failed
-986,986,2023-10-14,9:08,Litas,failed
-987,987,2023-10-15,9:05,Zloty,failed
-988,988,2022-11-14,11:04,Krone,failed
-989,989,2023-09-17,13:34,Ruble,success
-990,990,2023-04-08,9:26,Rupiah,success
-991,991,2023-05-03,8:21,Yen,failed
-992,992,2023-05-26,20:57,Pound,failed
-993,993,2023-02-16,9:00,Yuan Renminbi,success
-994,994,2023-04-16,8:41,Manat,success
-995,995,2022-12-18,6:38,Dollar,failed
-996,996,2023-05-13,20:47,Krona,failed
-997,997,2023-02-08,15:54,Som,success
-998,998,2023-06-24,13:26,Rupiah,success
-999,999,2023-02-01,19:57,Peso,failed
-1000,1000,2023-01-19,19:43,Yuan Renminbi,success
+1,49099,2023-02-07,14:09,Rupee,failed
+2,14423,2023-04-13,9:02,Zloty,failed
+3,199,2023-10-20,23:48,Rupiah,success
+4,59175,2023-10-03,19:10,Rupiah,failed
+5,39137,2023-05-04,20:47,Lev,failed
+6,86966,2023-02-26,0:15,Rupee,failed
+7,67128,2023-01-04,23:12,Krona,failed
+8,19681,2023-09-20,17:35,Rupiah,success
+9,44324,2023-10-25,22:00,Krona,success
+10,21814,2023-07-15,9:27,Peso,failed
+11,37224,2023-03-08,3:59,Dollar,failed
+12,86169,2023-01-20,18:25,Dollar,success
+13,50733,2023-09-03,18:47,Shilling,success
+14,35217,2023-07-01,10:42,Rupiah,failed
+15,92999,2023-08-22,10:17,Zloty,success
+16,10918,2023-09-30,11:17,Shekel,failed
+17,97488,2023-09-27,9:29,Peso,success
+18,56102,2023-08-24,0:17,Hryvnia,failed
+19,88503,2023-03-09,18:49,Won,success
+20,22821,2023-06-29,18:44,Rupiah,success
+21,41180,2023-10-23,9:32,Yuan Renminbi,
+22,25679,2023-05-18,21:05,Ruble,failed
+23,20063,2023-10-14,9:33,Kuna,success
+24,28249,2023-10-03,15:02,Ruble,failed
+25,63104,2023-09-13,6:57,Lev,failed
+26,30674,2023-09-21,4:53,Krone,success
+27,61632,2023-01-21,16:38,Baht,success
+28,84039,2023-05-19,3:57,Rupiah,failed
+29,40619,2023-08-10,14:38,Yuan Renminbi,failed
+30,72335,2023-05-19,18:24,Euro,failed
+31,90703,2023-01-05,23:17,Pound,success
+32,25156,2022-11-29,10:12,Real,success
+33,88074,2022-12-15,23:44,Yuan Renminbi,failed
+34,11753,2023-09-02,5:39,Zloty,success
+35,21461,2023-10-20,19:51,Peso,success
+36,66989,2023-04-20,4:50,Dollar,success
+37,10820,2023-05-26,22:45,Colon,failed
+38,61155,2023-06-25,13:20,Dinar,failed
+39,74300,2023-01-10,0:27,Zloty,success
+40,49675,2023-03-24,16:58,Rupiah,success
+41,86216,2023-02-07,3:13,Denar,failed
+42,92557,2023-07-09,20:35,Yuan Renminbi,failed
+43,87784,2023-08-30,16:33,Yuan Renminbi,success
+44,70090,2023-08-08,2:46,Rupiah,success
+45,54128,2023-01-09,23:02,Rand,success
+46,31391,2023-09-01,14:28,Yuan Renminbi,failed
+47,14330,2023-03-01,7:08,Yuan Renminbi,success
+48,74322,2023-09-18,20:41,Rupiah,failed
+49,18336,2023-10-25,22:33,Euro,success
+50,16466,2022-11-22,19:39,Real,success
+51,69792,2022-12-19,12:53,Rupee,success
+52,3280,2023-07-23,3:40,Rupiah,failed
+53,2624,2023-01-11,1:57,Euro,failed
+54,12793,2023-03-02,20:47,Peso,success
+55,88874,2023-06-09,15:33,Krona,success
+56,26203,2023-01-20,22:34,Ruble,failed
+57,96151,2023-10-21,21:17,Ruble,failed
+58,71539,2023-04-01,13:17,Real,failed
+59,37351,2023-05-29,8:15,Tugrik,success
+60,94679,2023-07-03,10:32,Kyat,failed
+61,83421,2023-02-09,9:37,Dollar,success
+62,89286,2023-06-11,1:36,Koruna,failed
+63,92417,2023-10-10,18:47,Euro,success
+64,52120,2023-03-17,2:13,Ruble,failed
+65,33588,2023-05-18,22:39,Yuan Renminbi,success
+66,23551,2023-07-10,21:25,Zloty,failed
+67,63373,2023-08-05,21:26,Yuan Renminbi,failed
+68,87763,2023-02-19,23:21,Ruble,failed
+69,32493,2023-03-30,7:04,Real,failed
+70,76444,2023-10-03,14:21,Zloty,success
+71,56473,2022-11-06,7:35,Ruble,success
+72,67641,2023-08-04,2:12,Krone,failed
+73,76259,2023-03-23,18:40,Rupiah,success
+74,22778,2023-06-15,15:20,Peso,success
+75,45106,2023-08-12,16:17,Guarani,success
+76,68554,2022-11-26,13:02,Franc,success
+77,15450,2023-06-23,20:09,Koruna,failed
+78,22164,2023-10-22,6:15,Euro,success
+79,95105,2023-08-06,1:01,Dollar,failed
+80,50053,2023-05-10,8:11,Shilling,failed
+81,58911,2022-12-30,23:09,Zloty,success
+82,44265,2023-10-31,16:19,Yuan Renminbi,success
+83,25530,2022-11-10,3:22,Kuna,failed
+84,88539,2023-02-05,15:44,Peso,failed
+85,59394,2023-07-01,13:59,Lempira,failed
+86,99580,2023-07-01,22:05,Peso,
+87,73724,2023-03-10,17:09,Rupiah,success
+88,83814,2023-05-09,8:53,Yuan Renminbi,success
+89,92963,2023-06-17,16:13,Euro,failed
+90,7637,2023-03-30,22:53,Yen,success
+91,80484,2023-07-16,8:49,Euro,failed
+92,55778,2023-06-01,8:41,Zloty,success
+93,78020,2023-05-01,5:49,Zloty,success
+94,69614,2023-03-11,9:55,Euro,success
+95,74595,2022-12-05,9:07,Rupiah,failed
+96,65295,2023-05-17,1:32,Ruble,failed
+97,2270,2023-08-09,22:41,Dollar,success
+98,97097,2023-06-03,10:08,Shilling,success
+99,52310,2023-04-07,13:22,Rupiah,success
+100,44597,2023-08-22,4:01,Peso,success
+101,49872,2022-11-23,22:12,Euro,success
+102,96624,2023-03-07,7:54,Zloty,success
+103,77953,2023-08-15,14:58,Shilling,failed
+104,13376,2023-11-02,6:39,Real,success
+105,93491,2023-03-01,14:34,Rial,success
+106,65808,2023-10-23,18:26,Shekel,success
+107,69523,2023-04-14,4:12,Ruble,failed
+108,93898,2023-08-11,2:47,Rupiah,success
+109,78860,2023-08-27,8:11,Euro,success
+110,81931,2023-06-06,5:18,Cordoba,success
+111,82764,2023-04-10,5:23,Yuan Renminbi,failed
+112,90424,2023-09-07,16:19,Tenge,success
+113,66686,2023-09-10,4:59,Peso,failed
+114,51101,2023-07-07,10:29,Franc,failed
+115,22465,2023-01-07,23:51,Real,failed
+116,73664,2023-03-18,21:45,Lek,failed
+117,29888,2022-12-28,19:44,Yuan Renminbi,failed
+118,53892,2023-10-08,2:58,Euro,success
+119,59381,2022-12-10,16:02,Tenge,failed
+120,80247,2023-09-15,8:10,Pound,failed
+121,35216,2023-01-03,15:14,Yuan Renminbi,success
+122,1388,2023-10-19,0:45,Rupiah,failed
+123,6477,2023-09-04,1:28,Rupiah,failed
+124,40281,2023-09-22,14:40,Peso,success
+125,10857,2023-07-13,20:10,Franc,success
+126,34694,2023-09-13,8:39,Ruble,success
+127,37870,2023-05-02,22:35,Yuan Renminbi,success
+128,82301,2023-07-19,20:43,Rial,failed
+129,68643,2023-07-31,5:44,Yuan Renminbi,success
+130,68535,2023-05-16,19:28,Rupiah,success
+131,91353,2023-07-27,0:25,Dirham,success
+132,6656,2023-06-23,21:08,Yuan Renminbi,failed
+133,97542,2023-02-27,21:52,Lempira,failed
+134,59484,2022-12-25,4:42,Yuan Renminbi,
+135,47515,2022-12-09,2:20,Yuan Renminbi,success
+136,9533,2023-03-05,9:04,Yuan Renminbi,success
+137,22375,2023-08-27,15:58,Real,failed
+138,13089,2023-09-02,8:10,Rupiah,success
+139,75921,2023-08-10,11:28,Hryvnia,failed
+140,58718,2023-05-03,21:33,Yen,failed
+141,57049,2023-01-29,2:06,Won,success
+142,81710,2023-01-23,14:12,Yuan Renminbi,success
+143,41882,2023-10-02,17:24,Dong,failed
+144,70775,2023-09-29,10:40,Real,success
+145,26100,2023-02-13,14:53,Rupiah,failed
+146,49913,2023-06-25,12:24,Rupiah,success
+147,28237,2023-08-18,11:25,Hryvnia,success
+148,99698,2023-07-18,1:32,Rial,failed
+149,37897,2023-04-15,21:01,Peso,success
+150,27857,2023-04-08,1:10,Rupiah,failed
+151,27749,2023-02-09,3:20,Euro,success
+152,95624,2022-12-26,5:51,Rupiah,success
+153,99064,2023-02-19,19:31,Krona,
+154,31311,2023-06-19,4:46,Peso,success
+155,20416,2023-04-16,21:17,Dollar,success
+156,57325,2023-08-02,3:12,Sol,failed
+157,96718,2022-11-30,10:30,Rupiah,success
+158,87926,2023-10-26,4:11,Koruna,failed
+159,24015,2023-04-28,18:32,Won,failed
+160,19182,2023-10-15,5:53,Dram,success
+161,32727,2023-05-16,12:59,Yuan Renminbi,success
+162,30444,2023-01-16,18:16,Real,success
+163,70030,2023-03-30,21:16,Metical,success
+164,83560,2023-05-19,1:01,Krona,failed
+165,74430,2023-09-13,12:06,Dollar,success
+166,36930,2022-12-25,7:03,Denar,success
+167,26518,2023-02-04,12:12,Yuan Renminbi,success
+168,96695,2023-09-02,6:36,Boliviano,failed
+169,41666,2023-10-24,10:46,Lempira,success
+170,23496,2023-02-07,10:46,Peso,failed
+171,83177,2023-03-27,22:48,Rupee,success
+172,74010,2022-11-22,16:31,Euro,failed
+173,59548,2023-04-17,1:09,Dollar,success
+174,10369,2023-09-10,20:31,Dollar,success
+175,49325,2022-12-25,0:53,Euro,success
+176,15470,2023-08-28,15:42,Baht,failed
+177,70573,2023-05-29,14:00,Dollar,failed
+178,70337,2023-01-30,20:40,Ringgit,failed
+179,74471,2023-01-10,18:52,Dong,failed
+180,27857,2023-07-10,4:13,Euro,failed
+181,80576,2023-02-20,5:21,Euro,success
+182,98643,2023-04-24,1:52,Kuna,failed
+183,90863,2023-06-24,5:00,Yuan Renminbi,failed
+184,57854,2022-12-10,23:21,Naira,success
+185,18811,2023-10-18,7:43,Real,failed
+186,17902,2023-08-12,22:50,Krona,failed
+187,92358,2022-11-10,16:38,Real,
+188,10884,2022-12-22,0:31,Yuan Renminbi,
+189,15533,2023-03-19,15:24,Sol,success
+190,28056,2023-08-11,14:29,Dollar,success
+191,95050,2023-01-03,1:45,Kyat,success
+192,27827,2023-04-06,6:07,Euro,failed
+193,60989,2022-11-27,17:10,Zloty,failed
+194,80145,2023-08-21,22:02,Real,success
+195,86229,2023-05-26,6:19,Rial,
+196,2933,2023-03-23,23:33,Birr,success
+197,49263,2023-03-31,2:11,Peso,success
+198,14966,2023-05-08,22:50,Yuan Renminbi,success
+199,32146,2023-06-12,17:38,Rupiah,success
+200,51143,2023-08-01,11:16,Dinar,success
+201,14342,2023-06-24,20:17,Peso,success
+202,57065,2023-01-17,11:17,Yuan Renminbi,failed
+203,73249,2022-11-12,6:35,Euro,failed
+204,47202,2023-02-15,18:33,Lempira,failed
+205,76447,2023-01-06,15:06,Rupiah,success
+206,33847,2023-05-19,8:39,Zloty,success
+207,63453,2022-12-06,11:51,Afghani,success
+208,44721,2023-03-08,10:12,Rupiah,success
+209,70641,2023-01-26,20:26,Euro,success
+210,50107,2023-03-10,17:23,Ruble,success
+211,99366,2023-07-22,19:29,Yuan Renminbi,success
+212,69979,2023-06-27,22:30,Ruble,failed
+213,24107,2023-10-10,23:39,Rial,success
+214,95637,2023-07-16,6:03,Yuan Renminbi,failed
+215,75841,2023-02-02,4:17,Krona,success
+216,8803,2023-03-07,4:28,Zloty,failed
+217,65755,2023-01-13,1:05,Yuan Renminbi,failed
+218,85210,2023-03-29,22:08,Sol,success
+219,76040,2023-09-15,20:03,Koruna,success
+220,13794,2022-12-23,12:50,Yuan Renminbi,success
+221,53361,2023-09-04,9:33,Ruble,
+222,25554,2023-07-10,18:07,Euro,success
+223,5207,2023-04-13,17:53,Yen,success
+224,54504,2023-06-10,22:25,Yuan Renminbi,
+225,41337,2023-08-15,16:57,Won,failed
+226,89693,2023-03-01,12:11,Pound,failed
+227,78078,2023-01-12,3:43,Euro,failed
+228,28051,2023-04-26,20:21,Franc,success
+229,64168,2023-06-09,19:35,Hryvnia,failed
+230,92565,2023-08-08,18:29,Yuan Renminbi,success
+231,52421,2023-08-17,20:40,Franc,failed
+232,62024,2023-03-03,9:54,Koruna,success
+233,35109,2023-08-08,11:55,Krona,success
+234,40791,2023-09-23,16:03,Peso,success
+235,92122,2022-12-28,21:35,Yuan Renminbi,
+236,36173,2022-11-14,4:04,Dong,failed
+237,9090,2023-08-25,20:51,Boliviano,failed
+238,79610,2023-06-13,4:02,Rupiah,success
+239,44959,2023-04-05,8:41,Peso,success
+240,82425,2022-11-13,12:23,Ruble,success
+241,69290,2023-01-26,1:22,Won,success
+242,33187,2023-08-03,3:38,Peso,success
+243,86942,2023-10-31,9:35,Ruble,success
+244,75225,2023-06-23,13:26,Peso,failed
+245,44925,2022-12-07,13:45,Peso,failed
+246,33872,2023-05-23,2:01,Ruble,failed
+247,37770,2023-01-08,13:19,Yuan Renminbi,success
+248,57218,2023-11-02,12:35,Pound,success
+249,86853,2023-01-29,7:33,Shekel,success
+250,7463,2023-04-11,6:00,Kyat,success
+251,35521,2023-08-09,9:31,Sol,failed
+252,35037,2023-06-10,8:11,Rupiah,failed
+253,56647,2023-11-04,15:21,Yuan Renminbi,failed
+254,70652,2023-10-20,22:49,Dinar,failed
+255,47788,2022-11-21,12:39,Shekel,failed
+256,90527,2022-11-18,14:47,Peso,success
+257,83438,2023-02-06,10:42,Franc,failed
+258,88892,2023-02-15,20:42,Ruble,failed
+259,83136,2023-08-06,19:21,Yuan Renminbi,success
+260,93552,2023-06-29,21:12,Krona,success
+261,83628,2023-04-19,14:05,Dinar,failed
+262,70897,2023-06-02,17:45,Euro,success
+263,5623,2023-05-26,9:23,Peso,failed
+264,39927,2023-06-13,21:46,Peso,success
+265,48587,2023-08-09,3:10,Afghani,success
+266,51881,2023-06-13,8:16,Yuan Renminbi,success
+267,55771,2023-10-13,21:20,Euro,success
+268,40630,2023-08-27,23:15,Peso,success
+269,27337,2023-05-23,7:47,Dram,success
+270,80516,2023-10-05,20:52,Euro,success
+271,30406,2023-03-31,20:17,Yuan Renminbi,failed
+272,39549,2023-10-29,14:07,Baht,success
+273,81741,2023-01-08,1:44,Yen,success
+274,48582,2023-03-02,5:34,Rupiah,failed
+275,56321,2023-03-12,5:50,Peso,failed
+276,51959,2023-09-02,7:27,Sol,
+277,63882,2023-06-16,9:36,Euro,failed
+278,11453,2022-11-27,2:46,Krona,failed
+279,31376,2023-07-11,16:33,Rupiah,failed
+280,33574,2023-09-17,0:18,Peso,failed
+281,46530,2023-06-15,6:17,Yuan Renminbi,success
+282,65548,2023-02-09,15:30,Real,failed
+283,81335,2023-04-15,14:04,Peso,success
+284,27191,2023-01-29,2:11,Zloty,success
+285,49651,2022-11-29,18:01,Euro,failed
+286,36272,2022-11-17,0:13,Real,success
+287,63783,2023-10-26,12:04,Yuan Renminbi,failed
+288,49582,2023-08-14,23:08,Rupiah,failed
+289,55001,2023-02-26,14:20,Ruble,success
+290,763,2023-03-25,4:48,Ruble,failed
+291,45335,2023-08-19,8:15,Krone,success
+292,72706,2023-05-18,11:02,Baht,success
+293,80600,2023-05-06,4:16,Yen,success
+294,57914,2023-08-19,8:56,Euro,success
+295,53796,2023-06-08,1:36,Dollar,failed
+296,12176,2023-07-10,4:08,Euro,failed
+297,49118,2023-07-24,2:18,Dollar,success
+298,97391,2023-03-08,4:46,Rupiah,success
+299,86542,2023-08-15,19:39,Yuan Renminbi,success
+300,40152,2023-07-13,13:23,Zloty,failed
+301,46511,2022-11-23,18:14,Yuan Renminbi,success
+302,73611,2023-02-03,21:25,Euro,failed
+303,7193,2023-08-01,19:14,Franc,success
+304,31799,2023-03-21,7:12,Yen,failed
+305,82314,2023-03-16,4:10,Euro,success
+306,79974,2023-03-28,8:22,Real,failed
+307,27919,2023-02-11,5:26,Dollar,failed
+308,44313,2023-09-01,18:37,Real,success
+309,60226,2023-06-07,18:30,Euro,success
+310,21681,2023-03-09,5:36,Afghani,success
+311,88322,2023-04-17,5:17,Yuan Renminbi,failed
+312,79080,2022-12-07,7:31,Lempira,success
+313,91843,2023-01-24,0:10,Koruna,success
+314,94210,2023-02-14,13:28,Yuan Renminbi,success
+315,53706,2023-04-29,2:01,Yuan Renminbi,failed
+316,11695,2022-12-22,15:18,Sol,success
+317,23477,2023-10-22,10:10,Yuan Renminbi,failed
+318,84264,2023-01-14,9:50,Zloty,failed
+319,30545,2023-07-20,0:44,Peso,success
+320,53990,2023-04-28,2:20,Franc,success
+321,10396,2023-02-16,3:29,Yuan Renminbi,failed
+322,37136,2023-04-07,6:53,Euro,failed
+323,73631,2023-11-02,15:11,Rupiah,failed
+324,30889,2023-02-14,14:30,Yuan Renminbi,success
+325,49266,2023-11-01,2:01,Lempira,failed
+326,12634,2022-11-07,6:04,Ruble,failed
+327,17232,2023-02-17,9:55,Yuan Renminbi,failed
+328,72580,2023-04-09,7:33,Somoni,
+329,25457,2023-07-27,2:08,Real,
+330,95387,2023-10-03,3:41,Peso,success
+331,72482,2023-03-25,11:55,Euro,success
+332,92311,2023-03-02,17:41,Pound,
+333,95121,2023-03-22,16:11,Peso,success
+334,38405,2023-01-31,20:06,Guarani,failed
+335,30116,2022-12-21,8:39,Lev,success
+336,29904,2022-12-11,10:06,Euro,failed
+337,72608,2023-07-16,12:01,Yuan Renminbi,success
+338,89546,2023-08-26,8:20,Ruble,failed
+339,10545,2023-01-23,11:21,Euro,success
+340,68092,2023-09-02,8:23,Rupiah,success
+341,96446,2023-08-02,23:54,Franc,success
+342,36115,2023-08-10,11:07,Shilling,failed
+343,4726,2023-02-15,8:24,Krona,failed
+344,91127,2022-11-20,14:30,Dollar,success
+345,61925,2022-12-21,19:23,Rial,success
+346,72709,2023-05-08,21:32,Ruble,failed
+347,41308,2023-07-24,8:08,Won,success
+348,33742,2023-01-14,3:15,Rupiah,failed
+349,97128,2023-06-21,0:10,Krona,success
+350,41582,2022-12-10,21:30,Euro,failed
+351,37695,2023-01-22,23:13,Rupiah,failed
+352,94347,2023-10-24,17:20,Yuan Renminbi,failed
+353,94175,2023-01-08,7:51,Bolivar,success
+354,92782,2022-12-24,4:34,Peso,failed
+355,32261,2023-05-19,15:51,Peso,failed
+356,15052,2023-11-04,21:51,Yuan Renminbi,success
+357,71146,2023-10-05,10:42,Peso,success
+358,71336,2023-11-04,22:36,Euro,failed
+359,84122,2023-09-26,15:24,Yuan Renminbi,failed
+360,92375,2023-07-10,19:45,Yuan Renminbi,success
+361,71910,2022-12-28,18:07,Zloty,failed
+362,69400,2022-12-17,17:26,Boliviano,success
+363,29541,2023-03-20,17:10,Yuan Renminbi,failed
+364,8566,2023-01-25,15:14,Yuan Renminbi,success
+365,90023,2023-04-06,23:50,Yuan Renminbi,success
+366,42565,2023-08-18,19:43,Yuan Renminbi,failed
+367,58245,2022-12-16,19:28,Zloty,success
+368,19347,2023-06-23,12:38,Euro,
+369,26265,2022-12-19,12:03,Ruble,success
+370,5167,2023-10-16,19:44,Krona,success
+371,54779,2023-07-10,6:48,Hryvnia,failed
+372,63620,2023-09-17,4:47,Baht,success
+373,46883,2023-09-06,11:36,Real,failed
+374,46364,2023-01-12,8:30,Ruble,failed
+375,72793,2023-01-03,9:15,Euro,success
+376,82950,2023-03-11,17:25,Quetzal,success
+377,12032,2023-05-16,9:45,Dollar,failed
+378,93694,2023-01-30,3:49,Hryvnia,failed
+379,59823,2022-12-24,16:03,Peso,failed
+380,48661,2023-09-01,16:23,Euro,success
+381,85071,2023-03-07,0:14,Real,failed
+382,43685,2023-05-27,5:01,Peso,success
+383,31734,2023-04-07,5:46,Peso,failed
+384,23735,2023-10-16,23:33,Krona,success
+385,46547,2023-02-18,14:57,Yuan Renminbi,success
+386,73219,2022-12-01,16:46,Koruna,success
+387,54612,2023-02-09,10:10,Dollar,
+388,44885,2022-12-25,16:57,Kuna,success
+389,23908,2023-04-13,9:45,Peso,failed
+390,92252,2023-05-01,17:03,Rupiah,failed
+391,2938,2023-10-26,7:11,Yuan Renminbi,success
+392,39885,2023-01-08,1:59,Rial,failed
+393,95435,2022-11-22,16:01,Yuan Renminbi,failed
+394,36887,2023-09-14,21:47,Yuan Renminbi,failed
+395,76197,2022-12-01,5:50,Hryvnia,failed
+396,31724,2022-12-11,18:53,Won,failed
+397,22939,2023-08-24,13:25,Euro,success
+398,24187,2023-07-22,3:25,Dong,
+399,24042,2023-10-14,3:02,Dollar,success
+400,76278,2023-08-16,12:25,Yuan Renminbi,success
+401,1166,2023-07-28,1:13,Birr,failed
+402,74068,2023-03-20,22:18,Marka,success
+403,13544,2023-03-01,13:19,Peso,failed
+404,85703,2023-05-17,16:57,Yuan Renminbi,success
+405,27133,2023-02-17,20:10,Ruble,failed
+406,76125,2022-11-13,22:54,Kwacha,success
+407,22636,2023-02-19,8:04,Ruble,failed
+408,87694,2023-01-07,16:37,Yuan Renminbi,failed
+409,3196,2023-01-04,9:43,Yuan Renminbi,success
+410,9556,2022-12-25,22:40,Euro,success
+411,72210,2023-09-19,15:32,Manat,success
+412,39716,2022-12-18,10:45,Dirham,success
+413,35344,2023-06-11,6:21,Yuan Renminbi,failed
+414,72953,2023-01-09,23:31,Koruna,failed
+415,65853,2023-10-28,9:10,Euro,success
+416,26270,2023-06-03,11:52,Peso,success
+417,48118,2023-02-17,18:18,Denar,success
+418,99452,2023-09-02,14:38,Real,success
+419,47090,2023-02-22,12:37,Ruble,success
+420,44454,2023-01-12,18:10,Yuan Renminbi,failed
+421,35915,2023-07-13,2:32,Rial,success
+422,18986,2023-03-07,0:06,Rupiah,success
+423,43398,2023-03-11,22:29,Rial,success
+424,47996,2023-03-25,17:52,Ruble,failed
+425,6957,2023-05-28,13:24,Dollar,failed
+426,57155,2023-01-06,15:40,Ruble,failed
+427,40014,2023-05-27,13:57,Kuna,success
+428,40661,2023-09-14,20:43,Yuan Renminbi,
+429,65198,2023-09-16,14:02,Peso,failed
+430,5996,2023-01-16,17:28,Krona,success
+431,24725,2023-08-05,7:23,Yen,success
+432,97215,2023-08-19,11:26,Real,success
+433,61655,2023-09-21,11:40,Euro,failed
+434,46007,2022-12-19,16:57,Real,success
+435,18870,2022-11-23,2:47,Rupiah,success
+436,60234,2023-03-15,8:53,Dollar,success
+437,2957,2023-10-22,11:03,Euro,failed
+438,69020,2023-07-02,15:48,Yuan Renminbi,success
+439,57784,2023-06-30,21:01,Rial,failed
+440,30355,2022-12-21,11:08,Euro,failed
+441,71031,2023-01-26,22:26,Peso,failed
+442,19128,2022-11-10,3:20,Som,success
+443,16983,2023-04-17,2:15,Peso,success
+444,47909,2022-12-21,22:31,Peso,failed
+445,61113,2023-05-12,9:54,Krona,failed
+446,85353,2023-02-26,18:56,Rupiah,success
+447,87572,2023-06-02,6:45,Rupiah,success
+448,12146,2023-10-09,1:43,Rupiah,success
+449,24320,2023-09-15,5:07,Dollar,success
+450,22906,2023-07-19,4:55,Ruble,failed
+451,53342,2022-12-04,4:57,Yuan Renminbi,success
+452,99390,2022-12-17,7:37,Baht,success
+453,79507,2023-07-31,17:58,Franc,success
+454,74896,2023-08-19,13:38,Tenge,success
+455,58878,2023-01-09,1:01,Rial,failed
+456,87622,2023-02-16,18:49,Yuan Renminbi,failed
+457,65150,2023-10-27,1:04,Ruble,failed
+458,76025,2022-11-18,23:50,Yuan Renminbi,failed
+459,68353,2023-04-16,19:47,Ruble,failed
+460,96479,2023-10-28,12:15,Euro,success
+461,15849,2023-09-29,7:12,Rupiah,success
+462,57221,2023-10-26,6:52,Ruble,failed
+463,7751,2023-05-14,15:13,Krona,failed
+464,91169,2023-04-12,14:01,Zloty,success
+465,87989,2023-04-07,22:01,Rupiah,failed
+466,27489,2023-10-25,1:04,Dollar,failed
+467,32006,2023-01-22,8:19,Euro,failed
+468,78387,2022-12-10,8:14,Sol,success
+469,12899,2023-10-28,12:35,Peso,failed
+470,54149,2023-05-01,13:14,Rupiah,success
+471,65269,2022-12-31,9:55,Rupiah,
+472,95199,2023-05-29,17:17,Zloty,success
+473,38227,2023-05-26,20:01,Dollar,success
+474,39158,2022-12-14,17:30,Zloty,failed
+475,19205,2023-03-26,22:44,Rupiah,failed
+476,553,2023-05-11,6:05,Dollar,success
+477,6596,2022-12-26,6:16,Hryvnia,failed
+478,83548,2023-08-01,15:04,Shilling,failed
+479,21366,2022-12-02,20:21,Lek,success
+480,65379,2023-05-09,8:36,Euro,success
+481,91365,2023-09-07,10:50,Yen,success
+482,41713,2023-08-07,13:13,Dram,success
+483,48656,2023-01-24,11:34,Yuan Renminbi,success
+484,14370,2023-08-25,0:22,Euro,success
+485,67276,2023-02-07,22:20,Yuan Renminbi,success
+486,70341,2023-01-28,2:23,Zloty,failed
+487,71778,2023-10-19,11:13,Kwacha,failed
+488,11501,2023-10-01,13:56,Yuan Renminbi,
+489,82287,2023-08-26,4:07,Euro,success
+490,83344,2023-10-12,11:12,Bolivar,success
+491,84619,2023-07-06,11:07,Peso,success
+492,684,2023-10-24,10:50,Peso,failed
+493,91680,2023-09-26,7:11,Ruble,success
+494,60246,2023-03-28,5:35,Rupiah,success
+495,71036,2023-10-20,20:06,Rupiah,failed
+496,56081,2023-07-22,5:22,Dong,success
+497,91216,2023-01-04,5:54,Shilling,success
+498,50275,2023-09-18,21:55,Peso,failed
+499,15325,2023-06-25,3:06,Loti,failed
+500,52626,2023-10-30,0:53,Koruna,success
+501,6242,2023-10-01,15:30,Real,failed
+502,20085,2023-05-31,21:50,Peso,success
+503,73157,2023-05-22,18:30,Dong,failed
+504,79912,2023-01-18,23:55,Pula,failed
+505,42302,2023-09-27,16:13,Euro,success
+506,17257,2022-11-10,4:46,Real,success
+507,62154,2023-01-09,7:20,Euro,success
+508,54557,2023-08-18,16:39,Rand,success
+509,64756,2023-10-26,17:35,Rupiah,
+510,33754,2023-02-21,11:52,Ruble,success
+511,62074,2023-09-10,4:50,Franc,success
+512,57069,2023-05-11,2:52,Yuan Renminbi,failed
+513,28157,2023-05-13,21:02,Dollar,failed
+514,16631,2023-09-01,9:50,Euro,success
+515,80035,2023-10-08,7:26,Euro,success
+516,7355,2023-02-01,6:27,Dollar,failed
+517,64917,2023-07-10,3:14,Marka,success
+518,94778,2023-04-09,15:25,Peso,failed
+519,74238,2023-04-17,6:49,Yuan Renminbi,failed
+520,70729,2023-09-29,11:07,Krona,success
+521,96150,2023-06-07,17:54,Euro,failed
+522,23916,2023-02-22,8:33,Tugrik,success
+523,11454,2022-12-08,4:07,Krona,failed
+524,64577,2023-01-17,7:44,Naira,success
+525,10368,2022-12-18,13:49,Yuan Renminbi,failed
+526,4689,2023-09-30,1:38,Ruble,success
+527,85219,2022-12-24,6:52,Sol,
+528,49848,2022-11-19,12:54,Yuan Renminbi,failed
+529,36517,2023-01-12,2:12,Yuan Renminbi,success
+530,29831,2023-03-03,14:11,Zloty,success
+531,76916,2023-01-03,22:34,Yuan Renminbi,success
+532,10277,2023-05-30,13:36,Hryvnia,success
+533,96253,2023-09-30,2:59,Dinar,failed
+534,31101,2023-05-13,18:38,Yuan Renminbi,success
+535,51065,2023-02-11,7:06,Yuan Renminbi,failed
+536,52178,2023-05-24,17:49,Rupiah,success
+537,66985,2023-10-29,3:09,Euro,success
+538,51551,2023-09-17,23:20,Krona,failed
+539,39926,2022-11-18,20:35,Dirham,failed
+540,14146,2022-12-09,22:08,Yuan Renminbi,success
+541,60274,2023-10-22,14:00,Peso,success
+542,32930,2023-05-18,5:41,Dong,failed
+543,74389,2023-02-28,6:18,Yuan Renminbi,failed
+544,95676,2023-03-27,13:39,Dollar,success
+545,44739,2023-01-22,0:15,Yuan Renminbi,success
+546,72334,2023-11-02,16:36,Peso,success
+547,23999,2023-08-07,12:32,Rupiah,success
+548,35894,2022-11-28,23:07,Dollar,success
+549,87179,2022-11-09,0:16,Peso,success
+550,74384,2023-07-10,21:41,Yuan Renminbi,success
+551,80182,2023-06-13,9:39,Baht,failed
+552,96885,2023-07-31,13:23,Rupiah,success
+553,79506,2023-01-16,12:21,Yuan Renminbi,failed
+554,72695,2023-01-23,19:51,Krona,failed
+555,11033,2023-10-06,17:38,Yuan Renminbi,failed
+556,78879,2023-10-08,23:18,Krona,success
+557,6484,2022-12-28,20:03,Shilling,success
+558,42495,2022-12-13,1:39,Dollar,failed
+559,57412,2023-08-19,18:46,Yuan Renminbi,failed
+560,70677,2022-11-22,13:54,Yuan Renminbi,success
+561,63878,2023-05-19,14:12,Peso,success
+562,92141,2023-07-21,0:59,Peso,success
+563,5862,2022-12-26,9:22,Yen,success
+564,67389,2023-07-09,6:27,Krona,
+565,6919,2023-07-23,18:11,Dollar,success
+566,45207,2023-01-11,1:30,Yuan Renminbi,failed
+567,22708,2023-01-12,22:25,Zloty,failed
+568,80317,2023-07-25,17:41,Yuan Renminbi,failed
+569,61312,2023-09-29,3:23,Yuan Renminbi,success
+570,99800,2023-09-16,1:25,Euro,success
+571,47975,2022-11-10,9:42,Pound,failed
+572,62488,2023-03-16,15:04,Euro,success
+573,97816,2023-02-08,4:17,Yuan Renminbi,success
+574,44419,2023-09-14,5:55,Rupiah,failed
+575,65412,2023-05-22,2:10,Ruble,failed
+576,88527,2023-04-10,12:34,Yuan Renminbi,success
+577,72847,2023-06-04,3:08,Yuan Renminbi,success
+578,41938,2022-12-12,10:38,Peso,success
+579,84210,2023-03-20,19:47,Peso,success
+580,45924,2022-12-09,17:50,Yuan Renminbi,failed
+581,7458,2023-04-06,8:46,Yuan Renminbi,failed
+582,23839,2023-09-10,15:34,Yuan Renminbi,failed
+583,59030,2023-11-01,23:45,Yuan Renminbi,success
+584,84102,2023-03-16,18:59,Ariary,failed
+585,59096,2023-04-08,12:59,Euro,success
+586,88560,2023-03-16,23:36,Denar,success
+587,38305,2023-05-08,20:49,Yuan Renminbi,success
+588,12364,2023-09-04,22:15,Baht,success
+589,13286,2022-12-31,2:41,Yuan Renminbi,failed
+590,19865,2023-03-21,20:46,Ruble,success
+591,78379,2023-04-21,5:48,Dong,failed
+592,98218,2022-11-30,6:30,Euro,failed
+593,42912,2023-07-21,17:11,Shilling,failed
+594,28524,2023-10-11,3:29,Hryvnia,
+595,30279,2023-02-23,16:45,Peso,success
+596,39712,2022-11-20,18:32,Yuan Renminbi,success
+597,49322,2023-03-23,0:27,Rupee,failed
+598,28482,2023-09-01,19:07,Peso,failed
+599,11354,2023-03-30,5:43,Koruna,failed
+600,20752,2022-11-28,7:15,Koruna,success
+601,15549,2023-09-23,0:10,Koruna,
+602,81537,2023-10-21,21:30,Yuan Renminbi,success
+603,27281,2023-08-05,0:02,Rupiah,failed
+604,55909,2023-03-27,12:24,Yuan Renminbi,success
+605,1563,2023-08-11,7:59,Hryvnia,
+606,74084,2023-07-22,7:03,Yuan Renminbi,failed
+607,67283,2023-05-19,6:02,Peso,failed
+608,94926,2023-08-06,13:24,Real,success
+609,34358,2023-07-09,6:49,Real,failed
+610,86835,2023-03-02,14:33,Tenge,success
+611,40501,2022-11-27,0:48,Yuan Renminbi,success
+612,8476,2022-11-11,9:41,Yuan Renminbi,success
+613,74601,2023-03-25,18:41,Euro,failed
+614,66161,2023-01-26,11:50,Ringgit,success
+615,50668,2023-01-15,22:49,Dollar,failed
+616,1916,2022-11-17,17:18,Rupiah,success
+617,90889,2023-01-18,18:17,Euro,failed
+618,29719,2022-12-03,21:30,Zloty,success
+619,57156,2022-11-08,5:08,Shekel,success
+620,18164,2022-12-14,3:05,Hryvnia,success
+621,5116,2023-04-14,22:47,Zloty,failed
+622,47321,2023-09-03,19:05,Peso,failed
+623,47080,2023-03-17,10:41,Ruble,success
+624,20342,2023-03-28,8:54,Euro,failed
+625,46046,2023-05-22,4:54,Baht,success
+626,20945,2023-08-20,3:51,Yuan Renminbi,success
+627,60551,2023-06-05,20:40,Euro,failed
+628,1805,2022-12-06,1:43,Yuan Renminbi,success
+629,64367,2023-06-08,8:37,Yuan Renminbi,failed
+630,35998,2023-07-29,6:54,Ruble,failed
+631,70674,2023-05-17,13:56,Yuan Renminbi,failed
+632,20185,2023-03-03,19:09,Yuan Renminbi,failed
+633,71868,2023-10-26,3:04,Yuan Renminbi,failed
+634,50283,2023-10-10,18:00,Yen,success
+635,14586,2023-01-30,21:29,Franc,success
+636,34641,2023-07-14,12:28,Real,success
+637,72991,2023-10-29,4:31,Ruble,success
+638,62744,2022-11-27,4:22,Yuan Renminbi,failed
+639,39406,2023-06-13,5:06,Zloty,failed
+640,85611,2023-06-20,14:26,Rand,failed
+641,95889,2023-09-20,10:59,Dollar,success
+642,72244,2023-10-13,7:38,Real,failed
+643,58471,2023-07-13,17:36,Euro,success
+644,67053,2023-10-30,3:34,Euro,success
+645,20765,2023-05-07,14:11,Franc,success
+646,79060,2023-06-02,4:48,Rupiah,failed
+647,59223,2023-06-30,23:04,Bolivar,failed
+648,60106,2023-03-19,10:14,Real,success
+649,60210,2023-02-10,12:07,Real,success
+650,81718,2023-08-29,18:30,Hryvnia,failed
+651,90560,2023-03-20,3:40,Rupiah,failed
+652,11348,2023-05-27,11:20,Dollar,failed
+653,57418,2023-01-17,0:01,Franc,success
+654,623,2023-05-19,9:55,Rupiah,
+655,6114,2023-04-08,5:01,Rupiah,failed
+656,87767,2023-03-13,18:29,Rupiah,success
+657,72695,2023-10-29,14:10,Krona,success
+658,72476,2023-05-21,9:07,Ruble,success
+659,31572,2023-05-25,19:42,Krona,failed
+660,19384,2022-11-26,0:33,Baht,success
+661,90440,2023-02-22,20:28,Rupiah,success
+662,79441,2023-02-13,20:53,Rupee,success
+663,34739,2023-10-27,2:52,Euro,success
+664,78252,2022-11-11,1:56,Rupiah,failed
+665,15661,2023-05-08,7:13,Real,success
+666,64211,2023-07-03,23:56,Peso,failed
+667,61200,2022-12-16,0:34,Ruble,failed
+668,93266,2023-06-08,10:38,Dollar,failed
+669,4333,2023-04-09,11:52,Yuan Renminbi,success
+670,94930,2023-06-01,19:57,Zloty,failed
+671,33750,2023-06-06,15:56,Rupiah,success
+672,55000,2023-10-21,17:58,Dollar,failed
+673,60322,2022-12-11,23:41,Yuan Renminbi,failed
+674,92278,2023-06-27,10:16,Quetzal,failed
+675,11638,2023-05-02,6:46,Sol,success
+676,59770,2022-12-08,22:27,Dinar,success
+677,54193,2022-12-31,19:02,Dollar,failed
+678,42678,2023-01-07,18:02,Kuna,failed
+679,3709,2023-06-03,14:46,Yuan Renminbi,failed
+680,81261,2023-09-17,8:42,Euro,failed
+681,84728,2023-03-09,13:05,Ruble,success
+682,81668,2023-01-22,0:17,Euro,failed
+683,39852,2023-03-28,7:12,Euro,failed
+684,49772,2023-01-25,6:33,Rand,failed
+685,19129,2023-05-05,0:31,Zloty,failed
+686,97661,2023-10-12,5:12,Zloty,success
+687,27942,2023-04-20,16:35,Peso,failed
+688,92078,2022-12-16,7:26,Dinar,failed
+689,9360,2023-03-12,10:53,Krona,success
+690,24788,2022-11-15,21:01,Pound,success
+691,23056,2023-02-26,7:03,Guarani,failed
+692,48023,2022-11-13,7:00,Ruble,success
+693,18177,2022-11-08,22:13,Yen,failed
+694,54295,2022-11-09,3:48,Peso,failed
+695,59788,2023-02-25,6:46,Real,failed
+696,10525,2023-08-29,21:04,Yuan Renminbi,success
+697,54428,2023-02-24,15:30,Dirham,failed
+698,15814,2023-05-08,20:54,Ruble,success
+699,80518,2023-04-23,1:41,Yuan Renminbi,success
+700,99528,2023-09-23,4:43,Rial,success
+701,88141,2022-11-23,15:48,Yuan Renminbi,failed
+702,53280,2023-06-20,7:26,Rupiah,failed
+703,50899,2023-10-09,7:50,Baht,failed
+704,80226,2023-07-22,12:17,Dollar,success
+705,8986,2022-12-21,18:29,Real,success
+706,59078,2023-10-02,18:25,Tenge,failed
+707,90683,2023-02-07,6:30,Kip,success
+708,18211,2022-11-27,18:51,Dong,success
+709,90662,2023-05-13,6:00,Krona,
+710,22475,2023-07-15,7:22,Metical,success
+711,5575,2023-08-04,10:32,Hryvnia,failed
+712,46821,2023-10-11,6:28,Dong,failed
+713,19087,2023-09-01,19:52,Yen,failed
+714,81953,2023-04-01,16:18,Ruble,failed
+715,31927,2023-05-14,17:30,Yuan Renminbi,failed
+716,47180,2023-07-22,4:23,Ariary,failed
+717,73578,2023-10-10,0:14,Som,failed
+718,90337,2023-09-22,9:50,Yuan Renminbi,failed
+719,89206,2023-04-26,4:29,Pound,failed
+720,47943,2023-05-28,23:48,Rupiah,failed
+721,2352,2023-02-27,19:24,Peso,failed
+722,55111,2023-07-23,2:02,Yuan Renminbi,success
+723,86947,2023-06-01,13:44,Manat,failed
+724,98836,2023-10-16,11:49,Yuan Renminbi,success
+725,30202,2023-08-04,5:10,Rupiah,failed
+726,41885,2023-02-18,6:54,Rupiah,
+727,83174,2023-07-20,1:50,Zloty,success
+728,77755,2023-06-20,15:28,Peso,failed
+729,5673,2022-12-16,12:33,Krona,failed
+730,70223,2023-06-15,10:25,Peso,failed
+731,50922,2023-10-04,14:33,Ruble,failed
+732,21374,2023-07-11,19:55,Rupee,failed
+733,38921,2023-09-04,16:11,Rand,success
+734,34456,2023-01-21,12:04,Rupiah,success
+735,81603,2022-11-28,4:41,Krona,failed
+736,72019,2022-11-28,9:12,Pound,failed
+737,42655,2023-02-23,22:15,Euro,failed
+738,60720,2023-01-11,5:33,Kwanza,success
+739,45250,2023-06-23,20:49,Rupiah,success
+740,9203,2023-04-23,7:18,Sol,success
+741,77001,2023-01-12,13:23,Peso,success
+742,97296,2023-02-17,17:14,Koruna,failed
+743,20450,2023-07-11,17:35,Rupiah,failed
+744,12047,2023-01-15,3:48,Pound,failed
+745,48385,2023-06-25,23:33,Rand,failed
+746,78741,2023-06-07,6:08,Won,success
+747,23240,2023-01-10,8:30,Yuan Renminbi,success
+748,40439,2023-11-02,12:41,Franc,success
+749,15617,2022-11-21,4:51,Rupee,success
+750,22887,2023-04-05,4:44,Real,failed
+751,95652,2023-01-14,2:15,Ruble,success
+752,83804,2023-05-23,17:08,Ruble,
+753,25899,2023-07-06,4:48,Rupiah,success
+754,69799,2023-04-26,14:17,Naira,success
+755,21633,2022-11-30,9:44,Yen,failed
+756,73833,2023-07-08,10:14,Dollar,
+757,45726,2023-09-01,6:11,Krona,success
+758,71640,2023-07-23,19:28,Peso,failed
+759,13716,2023-05-23,1:05,Real,success
+760,32437,2023-03-08,5:45,Peso,success
+761,89143,2023-02-09,13:20,Yuan Renminbi,failed
+762,23155,2022-11-22,0:07,Yuan Renminbi,failed
+763,23666,2023-05-09,7:00,Rupiah,failed
+764,29811,2023-01-17,20:33,Dollar,success
+765,51326,2023-02-27,11:40,Sol,failed
+766,31739,2023-04-04,23:28,Dinar,success
+767,97395,2023-10-10,4:43,Euro,failed
+768,73121,2023-07-25,2:46,Euro,failed
+769,15597,2023-06-13,2:13,Shilling,failed
+770,53216,2023-04-17,4:59,Zloty,success
+771,25774,2023-01-06,14:48,Yuan Renminbi,failed
+772,71347,2023-01-31,1:26,Yuan Renminbi,success
+773,83642,2023-03-14,8:42,Euro,failed
+774,18537,2023-05-18,3:50,Peso,success
+775,9772,2023-06-09,15:14,Real,success
+776,68865,2022-11-10,1:17,Rupiah,failed
+777,62709,2022-12-16,21:35,Yuan Renminbi,success
+778,95455,2023-05-24,23:57,Rial,failed
+779,49716,2023-02-20,4:57,Peso,success
+780,83122,2023-08-04,11:53,Euro,success
+781,44400,2023-08-03,22:06,Litas,failed
+782,44178,2023-04-04,13:33,Yuan Renminbi,success
+783,20006,2023-11-03,16:01,Koruna,failed
+784,33453,2023-09-05,8:11,Euro,failed
+785,84553,2023-04-20,5:08,Peso,success
+786,99171,2023-07-19,6:10,Pound,success
+787,29847,2023-03-27,18:51,Euro,failed
+788,27433,2022-12-29,21:07,Euro,failed
+789,32250,2022-12-22,10:29,Rupiah,failed
+790,70960,2023-08-27,12:52,Yuan Renminbi,failed
+791,23342,2023-10-05,9:08,Ruble,success
+792,5215,2023-02-06,15:01,Ariary,success
+793,72270,2023-07-18,3:34,Rupiah,success
+794,99592,2022-11-09,6:50,Dirham,failed
+795,69789,2022-12-14,1:28,Shilling,failed
+796,66888,2022-12-28,0:02,Krone,failed
+797,79684,2023-09-07,23:36,Real,success
+798,95603,2023-01-16,8:19,Pound,failed
+799,35375,2023-03-28,12:18,Yuan Renminbi,success
+800,11770,2023-09-18,7:36,Som,success
+801,12034,2022-11-21,15:29,Peso,failed
+802,39356,2023-01-16,12:13,Rupiah,failed
+803,48957,2022-12-04,23:36,Yuan Renminbi,success
+804,62113,2023-01-11,13:01,Dirham,success
+805,27943,2023-10-01,14:32,Ruble,success
+806,67043,2023-08-09,2:34,Koruna,success
+807,38917,2023-01-18,18:31,Ruble,failed
+808,50692,2023-03-04,7:49,Yuan Renminbi,failed
+809,59285,2022-12-21,9:34,Euro,failed
+810,43743,2023-02-02,18:56,Euro,failed
+811,30586,2023-04-19,10:54,Tugrik,success
+812,85405,2023-03-26,21:55,Euro,failed
+813,89134,2022-12-08,4:13,Peso,success
+814,11679,2023-03-11,12:43,Rupiah,failed
+815,40923,2023-02-27,9:18,Dollar,failed
+816,28379,2023-01-27,10:31,Ruble,success
+817,95368,2023-05-29,6:25,Rial,success
+818,50760,2023-02-15,6:42,Rupiah,failed
+819,93227,2022-12-23,10:44,Marka,success
+820,84472,2023-03-17,12:22,Zloty,success
+821,36737,2023-09-25,7:04,Euro,failed
+822,42733,2023-05-06,11:35,Krona,success
+823,7124,2023-07-23,4:27,Krona,failed
+824,58838,2023-08-05,11:47,Real,success
+825,2231,2023-02-25,5:26,Dollar,success
+826,86423,2023-06-04,2:23,Yuan Renminbi,success
+827,45501,2023-06-15,22:54,Euro,
+828,19482,2023-10-07,0:13,Manat,success
+829,21713,2023-04-10,0:07,Koruna,success
+830,26054,2023-01-14,7:05,Pound,failed
+831,60261,2023-04-13,0:32,Metical,success
+832,42593,2023-02-01,17:21,Yuan Renminbi,success
+833,38806,2022-12-18,21:11,Dram,failed
+834,69476,2023-01-12,16:41,Lari,success
+835,47233,2023-09-27,12:06,Dinar,success
+836,69633,2023-01-17,22:46,Zloty,failed
+837,48773,2023-08-31,5:53,Euro,success
+838,3806,2023-10-11,10:21,Dollar,failed
+839,26888,2023-09-22,19:47,Yuan Renminbi,failed
+840,67270,2022-11-06,15:21,Euro,failed
+841,19379,2022-11-25,12:40,Real,success
+842,16103,2023-03-10,11:08,Yuan Renminbi,failed
+843,28577,2023-05-14,5:35,Som,failed
+844,50362,2022-12-01,18:59,Sol,success
+845,74937,2023-06-29,13:59,Kwacha,failed
+846,16783,2023-02-12,12:15,Rupiah,failed
+847,19296,2023-04-15,22:41,Rupiah,success
+848,73634,2023-06-04,13:18,Lev,success
+849,40296,2023-06-01,7:55,Peso,success
+850,6268,2023-06-22,21:16,Yuan Renminbi,success
+851,35158,2023-08-09,2:47,Real,failed
+852,62334,2023-10-28,18:15,Yuan Renminbi,failed
+853,69220,2022-12-01,8:14,Yuan Renminbi,success
+854,36463,2022-12-27,10:58,Afghani,success
+855,38947,2022-12-07,5:18,Peso,failed
+856,99922,2023-07-22,23:36,Rupiah,failed
+857,66488,2023-07-01,9:24,Peso,failed
+858,13283,2023-04-04,21:08,Yuan Renminbi,success
+859,80525,2023-07-14,23:46,Bolivar,failed
+860,2332,2023-02-15,9:14,Rupiah,success
+861,92043,2023-01-17,23:34,Peso,failed
+862,56592,2023-02-05,9:59,Rupee,success
+863,81674,2023-01-11,9:47,Yuan Renminbi,success
+864,23951,2022-11-19,7:53,Euro,failed
+865,16388,2023-08-11,23:50,Sol,failed
+866,90664,2023-01-11,15:56,Yuan Renminbi,success
+867,21276,2023-07-09,22:54,Ringgit,success
+868,17264,2023-04-05,2:46,Lev,failed
+869,34725,2023-11-01,11:26,Dollar,success
+870,92108,2023-02-16,20:35,Rupiah,failed
+871,33599,2022-12-16,19:24,Zloty,failed
+872,77320,2022-12-17,6:03,Tenge,success
+873,64778,2023-04-13,2:05,Peso,success
+874,96440,2023-10-04,18:38,Krona,
+875,30378,2023-01-07,13:45,Euro,failed
+876,42460,2023-09-20,14:51,Yuan Renminbi,failed
+877,23518,2023-05-14,18:22,Zloty,success
+878,77724,2023-04-21,7:09,Yuan Renminbi,failed
+879,95852,2023-05-17,18:55,Ruble,failed
+880,93251,2023-09-26,2:25,Peso,failed
+881,2296,2023-02-14,16:47,Zloty,failed
+882,11219,2023-06-03,3:42,Ruble,success
+883,13788,2023-03-07,8:11,Rupiah,failed
+884,23384,2023-01-19,0:05,Yuan Renminbi,success
+885,85963,2022-12-25,3:42,Baht,success
+886,33357,2022-11-15,17:22,Krona,failed
+887,78258,2023-08-06,17:04,Yen,failed
+888,43079,2023-10-23,3:29,Pound,success
+889,41694,2022-12-12,20:31,Yuan Renminbi,success
+890,70378,2023-04-09,4:24,Peso,success
+891,68299,2023-10-18,0:56,Franc,success
+892,90451,2022-11-15,17:14,Afghani,success
+893,55462,2023-04-19,20:03,Peso,success
+894,75682,2023-08-11,16:39,Peso,
+895,78577,2023-09-17,4:50,Real,failed
+896,20048,2023-06-19,4:09,Peso,success
+897,6111,2023-03-07,4:28,Yen,
+898,94351,2023-05-20,20:24,Euro,success
+899,26396,2023-07-15,23:03,Yuan Renminbi,success
+900,25425,2023-09-07,3:25,Balboa,success
+901,42644,2023-05-28,4:03,Lev,failed
+902,6670,2023-04-02,2:54,Ruble,success
+903,40128,2022-11-21,20:09,Euro,success
+904,19330,2023-07-17,14:22,Rupiah,failed
+905,27202,2023-08-26,13:33,Rial,failed
+906,20462,2022-11-28,4:00,Rupiah,success
+907,69108,2023-04-02,3:46,Krona,success
+908,95954,2023-04-28,1:26,Yuan Renminbi,failed
+909,78291,2023-07-30,7:41,Sol,failed
+910,77170,2023-08-10,7:18,Yuan Renminbi,success
+911,4826,2023-08-04,8:19,Yuan Renminbi,success
+912,61824,2023-02-04,4:25,Baht,failed
+913,47846,2023-01-30,8:32,Yuan Renminbi,failed
+914,63291,2023-03-18,7:36,Rupiah,failed
+915,62237,2023-03-12,8:16,Yuan Renminbi,failed
+916,76181,2023-07-16,6:27,Peso,success
+917,44888,2022-12-09,21:33,Ruble,failed
+918,73390,2022-11-13,22:15,Peso,success
+919,90546,2023-06-05,17:59,Peso,failed
+920,26003,2023-08-30,10:45,Peso,success
+921,46408,2023-09-27,1:13,Rupiah,success
+922,98278,2022-12-06,1:08,Yuan Renminbi,success
+923,43926,2022-12-08,0:00,Rupiah,failed
+924,1865,2023-10-15,3:49,Dollar,failed
+925,72502,2022-12-31,7:42,Zloty,success
+926,40555,2023-01-26,16:24,Sol,success
+927,25275,2023-06-12,13:35,Hryvnia,failed
+928,56727,2023-01-04,2:39,Yuan Renminbi,failed
+929,43323,2023-04-12,16:43,Yuan Renminbi,
+930,77439,2023-09-17,8:25,Yuan Renminbi,success
+931,57011,2023-01-11,0:12,Real,success
+932,12902,2023-08-10,8:40,Peso,success
+933,63318,2023-06-01,22:12,Real,failed
+934,87640,2023-08-28,12:22,Zloty,success
+935,39916,2023-10-02,16:15,Peso,failed
+936,62227,2023-06-21,9:40,Ruble,
+937,16558,2023-07-31,17:07,Dollar,success
+938,28613,2023-07-12,16:07,Rand,failed
+939,45236,2023-07-03,12:41,Ruble,success
+940,96896,2023-04-12,17:13,Krona,success
+941,64555,2023-05-27,0:41,Dong,success
+942,57759,2023-03-24,11:09,Euro,failed
+943,75501,2023-08-30,16:26,Yuan Renminbi,success
+944,33941,2023-09-14,1:48,Hryvnia,success
+945,44182,2023-10-23,9:54,Peso,failed
+946,2309,2023-04-19,4:19,Rupiah,failed
+947,61772,2023-07-16,11:39,Som,success
+948,80770,2023-07-21,7:01,Rupiah,failed
+949,35540,2023-04-26,20:07,Peso,failed
+950,19597,2023-09-15,10:15,Hryvnia,success
+951,6307,2023-01-05,22:28,Real,success
+952,24471,2023-05-24,22:39,Rupiah,failed
+953,47113,2023-02-16,13:32,Yuan Renminbi,failed
+954,29290,2022-11-30,0:36,Yen,success
+955,48602,2023-09-01,23:09,Yuan Renminbi,failed
+956,29810,2023-06-01,20:40,Koruna,success
+957,31785,2023-06-03,14:35,Dinar,success
+958,9162,2023-02-17,9:58,Franc,success
+959,47970,2023-05-24,7:17,Real,failed
+960,91952,2023-07-16,20:47,Sol,failed
+961,65919,2023-05-12,13:41,Peso,success
+962,98161,2023-10-11,19:24,Euro,failed
+963,25763,2023-07-24,23:02,Rupiah,success
+964,99870,2023-03-08,16:04,Marka,success
+965,6703,2023-05-07,6:06,Yuan Renminbi,failed
+966,77619,2023-08-23,19:37,Yen,success
+967,33811,2022-11-12,10:38,Zloty,success
+968,62051,2023-08-30,12:22,Euro,failed
+969,24283,2023-05-01,16:11,Ruble,success
+970,78150,2023-05-15,8:52,Ruble,failed
+971,84885,2023-04-12,6:59,Peso,success
+972,3656,2022-11-07,10:05,Yuan Renminbi,failed
+973,65307,2023-07-08,20:48,Ruble,failed
+974,54257,2023-03-03,20:06,Afghani,success
+975,62164,2023-02-01,14:14,Euro,failed
+976,53811,2022-11-11,3:36,Euro,failed
+977,26030,2023-06-03,8:15,Yuan Renminbi,failed
+978,78573,2023-01-17,14:58,Rupiah,success
+979,61456,2023-06-06,11:52,Dinar,success
+980,99620,2023-08-01,20:18,Rial,success
+981,98677,2023-01-25,2:45,Yuan Renminbi,success
+982,96293,2023-09-14,14:27,Dollar,failed
+983,15428,2023-01-12,8:51,Rupiah,success
+984,32997,2023-09-11,6:11,Ruble,failed
+985,76612,2023-02-25,17:21,Hryvnia,failed
+986,57687,2023-02-11,12:40,Yuan Renminbi,success
+987,46208,2023-08-31,16:18,Euro,success
+988,52134,2023-01-15,18:20,Euro,failed
+989,33811,2023-03-31,23:49,Sol,failed
+990,78742,2023-06-15,12:19,Dollar,success
+991,35144,2022-12-06,15:11,Euro,failed
+992,60269,2023-03-15,17:36,Peso,failed
+993,74102,2023-06-02,11:29,Rupiah,success
+994,27674,2023-02-06,23:26,Yuan Renminbi,failed
+995,61029,2023-05-11,15:12,Shilling,failed
+996,40507,2023-09-02,15:27,Yuan Renminbi,failed
+997,93686,2023-05-14,6:48,Krona,failed
+998,68374,2023-09-28,17:14,Euro,failed
+999,82341,2023-04-11,2:15,Peso,success
+1000,63377,2023-04-06,9:01,Euro,success
