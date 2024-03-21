@@ -1,0 +1,40 @@
+CustomerID	Name	Age	DateOfBirth	Country	City
+1	Nguyen Van A	19	1/11/2004	VN	Hanoi
+2	Le Van D	20	7/15/2003	VN	Hanoi
+10	Nguyen Van C	20	3/18/2003	VN	Da Nang
+34	Dinh Van O	26	12/12/1996	VN	Ho Chi Minh City
+39	Hoang Thi E	37	12/14/1985	VN	Hanoi
+42	Le Thuy F	41	10/14/1981	VN	Vinh
+44	Dinh Van R	123	1/1/1900	VN	Hanoi
+56	Le Thuy H	23	10/9/1999	VN	Vinh
+65	Le Thuy I	23	10/9/1999	VN	Hanoi
+70	Hoang Van J	23	10/9/1999	VN	Hanoi
+74	Pham Thanh K	23	10/9/1999	Hanoi
+78	Dinh Van P	23	10/9/1999	VN	Ho Chi Minh City
+79	Hoang Van M	23	12/23/1999	VN	Hanoi
+83	Hoang Van N	34	1/29/1989	VN	Ho Chi Minh City
+92	Huynh Thi O	22	2/9/2001	VN	Ho Chi Minh City
+98	Huynh Thi P	30	8/9/1992	VN	Hai Phong
+102	Ly Thi U	33	11/4/1989	VN	Da Nang
+108	Huynh Thi R	37	5/24/1986	VN	Hai Phong
+111	Huynh Thi S	32	3/31/1991	VN	Hai Phong
+115	Huynh Thi Q	123	1/1/1900	VN	Hanoi
+118	Ly Thi V	23	10/9/1999	VN	Hai Phong
+119	Pham Thi I	23	10/9/1999	VN	Ho Chi Minh City
+121	Ly Thi B	23	10/9/1999	VN	Ho Chi Minh City
+131	Le Van C	23	10/9/1999	VN	Da Nang
+132	Nguyen Van B	23	10/9/1999	Ho Chi Minh City
+135	Le Van E	23	10/9/1999	VN	Hanoi
+146	Le Van F	23	10/9/1999	VN	Hanoi
+147	Pham Thi G	23	10/9/1999	VN	Da Nang
+148	Pham Thi H	23	10/9/1999	VN	Hanoi
+150	Ly Thi A	23	10/9/1999	VN	Hanoi
+169	Hoang Van K	23	10/9/1999	VN	Ho Chi Minh City
+173	Pham Thanh L	23	10/9/1999	Hai Phong
+177	Pham Thanh M	23	10/9/1999	VN	Hanoi
+180	Dinh Van N	25	9/2/1997	VN	Da Nang
+181	Hoang Thi D	24	12/12/1998	VN	Hai Phong
+184	Hoang Van L	22	11/3/2000	VN	Ho Chi Minh City
+189	Dinh Van Q	123	1/1/1900	VN	Vinh
+193	Le Thuy G	35	12/30/1987	VN	Da Nang
+199	Dinh Van S	34	12/21/1988	VN	Da Nang
