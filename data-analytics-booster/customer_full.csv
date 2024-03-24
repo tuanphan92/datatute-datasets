@@ -9,7 +9,7 @@ CustomerID	Name	Age	DateOfBirth	Country	City
 56	Le Thuy H	23	10/9/1999	VN	Vinh
 65	Le Thuy I	23	10/9/1999	VN	Hanoi
 70	Hoang Van J	23	10/9/1999	VN	Hanoi
-74	Pham Thanh K	23	10/9/1999	VN  Hanoi
+74	Pham Thanh K	23	10/9/1999	VN	Hanoi
 78	Dinh Van P	23	10/9/1999	VN	Ho Chi Minh City
 79	Hoang Van M	23	12/23/1999	VN	Hanoi
 83	Hoang Van N	34	1/29/1989	VN	Ho Chi Minh City
@@ -23,14 +23,14 @@ CustomerID	Name	Age	DateOfBirth	Country	City
 119	Pham Thi I	23	10/9/1999	VN	Ho Chi Minh City
 121	Ly Thi B	23	10/9/1999	VN	Ho Chi Minh City
 131	Le Van C	23	10/9/1999	VN	Da Nang
-132	Nguyen Van B	23	10/9/1999	VN  Ho Chi Minh City
+132	Nguyen Van B	23	10/9/1999	VN	Ho Chi Minh City
 135	Le Van E	23	10/9/1999	VN	Hanoi
 146	Le Van F	23	10/9/1999	VN	Hanoi
 147	Pham Thi G	23	10/9/1999	VN	Da Nang
 148	Pham Thi H	23	10/9/1999	VN	Hanoi
 150	Ly Thi A	23	10/9/1999	VN	Hanoi
 169	Hoang Van K	23	10/9/1999	VN	Ho Chi Minh City
-173	Pham Thanh L	23	10/9/1999	VN  Hai Phong
+173	Pham Thanh L	23	10/9/1999	VN	Hai Phong
 177	Pham Thanh M	23	10/9/1999	VN	Hanoi
 180	Dinh Van N	25	9/2/1997	VN	Da Nang
 181	Hoang Thi D	24	12/12/1998	VN	Hai Phong
