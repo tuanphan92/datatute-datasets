@@ -1,0 +1,4 @@
+﻿Product key,Warehouse key,Date-key,Beginning inventory quantity,Ending inventory quantity,Quantity sold,Quantity received,Quantity adjusted,Inventory turnover rate,Average inventory value,Stockout days
+567,12,20240131,500,300,250,100,-50,0.625,"$2,500",0
+568,15,20240131,"1,000",850,200,100,-50,0.222,"$5,400",2
+569,12,20240131,750,700,100,50,0,0.133,"$3,200",1
