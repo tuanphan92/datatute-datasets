@@ -20,7 +20,7 @@ class MySQLReader(DataReader):
     """
 
     def __init__(self, config: MySQLConfig) -> Engine:
-        super().__init__(config)
+        self.config = config
 
     def get_connection(self) -> None:
         # Use the format for the PyMySQL driver.
