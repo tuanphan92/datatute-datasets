@@ -10,7 +10,7 @@ class CSVCreator(Creator):
     """
 
     def __init__(self, config: CSVConfig) -> None:
-        super().__init__(config)
+        self.config = config
 
     def get_data_reader(self) -> DataReader:
         return CSVReader(self.config)
