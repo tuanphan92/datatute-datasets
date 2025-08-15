@@ -10,7 +10,7 @@ class MySQLCreator(Creator):
     """
 
     def __init__(self, config: MySQLConfig) -> None:
-        super().__init__(config)
+        self.config = config
 
     def get_data_reader(self) -> DataReader:
         return MySQLReader(self.config)
