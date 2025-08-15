@@ -15,7 +15,7 @@ class CSVReader(DataReader):
     """
 
     def __init__(self, config: CSVConfig) -> None:
-        super().__init__(config)
+        self.config = config
 
     def read_data(self) -> pd.DataFrame:
         return pd.read_csv(
