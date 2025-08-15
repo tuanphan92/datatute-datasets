@@ -11,9 +11,6 @@ class Creator(ABC):
     The Creator's subclasses provide the implementation of this method
     """
 
-    def __init__(self, config: dict) -> None:
-        self.config = config
-
     @abstractmethod
     def get_data_reader(self) -> DataReader:
         """
